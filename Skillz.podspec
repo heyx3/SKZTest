@@ -102,7 +102,7 @@ Pod::Spec.new do |s|
 
   # s.resource  = "icon.png"
   # s.resources = "Resources/*.png"
-  s.ios.resource_bundle = { 'SkillzSDK' => 'SkillzSDK/*' }
+  s.ios.resource_bundle = { 'SkillzSDK' => 'SkillzSDK.bundle' }
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
