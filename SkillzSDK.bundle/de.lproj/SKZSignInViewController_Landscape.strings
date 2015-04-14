@@ -1,0 +1,24 @@
+/* Class = "IBUITextField"; accessibilityLabel = "PasswordField"; ObjectID = "2bs-YC-EFf"; */
+"2bs-YC-EFf.accessibilityLabel" = "PasswordField";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "2bs-YC-EFf"; */
+"2bs-YC-EFf.placeholder" = "Passwort";
+
+/* Class = "IBUITextField"; accessibilityLabel = "UserNameField"; ObjectID = "QeH-oD-cAE"; */
+"QeH-oD-cAE.accessibilityLabel" = "UserNameField";
+
+/* Class = "IBUITextField"; placeholder = "Username or Email"; ObjectID = "QeH-oD-cAE"; */
+"QeH-oD-cAE.placeholder" = "Benutzername oder E-Mail";
+
+/* Class = "IBUIButton"; accessibilityLabel = "SignInButton"; ObjectID = "dI2-2r-b71"; */
+"dI2-2r-b71.accessibilityLabel" = "SignInButton";
+
+/* Class = "IBUIButton"; normalTitle = "SIGN IN"; ObjectID = "dI2-2r-b71"; */
+"dI2-2r-b71.normalTitle" = "ANMELDEN";
+
+/* Class = "IBUIButton"; normalTitle = "Forgot Username/Password"; ObjectID = "ff9-fl-c9N"; */
+"ff9-fl-c9N.normalTitle" = "Benutzername/Passwort vergessen";
+
+/* Class = "IBUILabel"; text = "Welcome back. Sign in to Skillz"; ObjectID = "oT2-Ae-QDq"; */
+"oT2-Ae-QDq.text" = "Willkommen zurück. Melde dich bei Skillz an";
+

@@ -1,0 +1,54 @@
+/* Class = "IBUILabel"; text = "VS"; ObjectID = "1yf-hH-Qya"; */
+"1yf-hH-Qya.text" = "GEGEN";
+
+/* Class = "IBUILabel"; text = "Player One"; ObjectID = "5LW-C3-g2g"; */
+"5LW-C3-g2g.text" = "Spieler Eins";
+
+/* Class = "IBUILabel"; text = "VS"; ObjectID = "6dY-gP-riG"; */
+"6dY-gP-riG.text" = "GEGEN";
+
+/* Class = "IBUILabel"; text = "PRIZE"; ObjectID = "C7O-zb-deZ"; */
+"C7O-zb-deZ.text" = "PREIS";
+
+/* Class = "IBUIButton"; normalTitle = "MATCH DETAILS"; ObjectID = "Cig-Cy-cpK"; */
+"Cig-Cy-cpK.normalTitle" = "MATCH-DETAILS";
+
+/* Class = "IBUILabel"; text = "Player Two"; ObjectID = "Fsk-GE-SPw"; */
+"Fsk-GE-SPw.text" = "Spieler Zwei";
+
+/* Class = "IBUILabel"; text = "YOUR FIRST MATCH"; ObjectID = "INC-gA-8vz"; */
+"INC-gA-8vz.text" = "DEIN ERSTES MATCH";
+
+/* Class = "IBUILabel"; text = "2 Players"; ObjectID = "JPT-1t-r4N"; */
+"JPT-1t-r4N.text" = "2 Spieler";
+
+/* Class = "IBUILabel"; text = "100"; ObjectID = "LGS-58-dil"; */
+"LGS-58-dil.text" = "100";
+
+/* Class = "IBUILabel"; text = "Teammate"; ObjectID = "LkB-sK-7l0"; */
+"LkB-sK-7l0.text" = "Mitspieler";
+
+/* Class = "IBUILabel"; text = "YOU"; ObjectID = "XOl-75-XSS"; */
+"XOl-75-XSS.text" = "DU";
+
+/* Class = "IBUILabel"; text = "Player One"; ObjectID = "gPb-Ll-T3m"; */
+"gPb-Ll-T3m.text" = "Spieler Eins";
+
+/* Class = "IBUILabel"; text = "Entry Fee: Free"; ObjectID = "l9S-EL-i1p"; */
+"l9S-EL-i1p.text" = "Startgeld: Gratis";
+
+/* Class = "IBUILabel"; text = "YOU"; ObjectID = "lzJ-6K-qgQ"; */
+"lzJ-6K-qgQ.text" = "DU";
+
+/* Class = "IBUILabel"; text = "Challenger"; ObjectID = "qfr-uT-k66"; */
+"qfr-uT-k66.text" = "Herausforderer";
+
+/* Class = "IBUILabel"; text = "Challenger"; ObjectID = "sh5-N7-sRb"; */
+"sh5-N7-sRb.text" = "Herausforderer";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Begin Now"; ObjectID = "siG-SI-PNK"; */
+"siG-SI-PNK.accessibilityLabel" = "Jetzt beginnen";
+
+/* Class = "IBUIButton"; normalTitle = "BEGIN MATCH NOW"; ObjectID = "siG-SI-PNK"; */
+"siG-SI-PNK.normalTitle" = "MATCH JETZT BEGINNEN";
+

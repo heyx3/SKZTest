@@ -1,0 +1,6 @@
+/* Class = "IBUIView"; accessibilityLabel = "Leaderboards Locked"; ObjectID = "1"; */
+"1.accessibilityLabel" = "赢取现金来排名";
+
+/* Class = "IBUILabel"; text = "Leaderboards are unavailable at this time.  Try again soon."; ObjectID = "PV1-sf-YmO"; */
+"PV1-sf-YmO.text" = "排行榜此时不可用。请过会儿再试。";
+

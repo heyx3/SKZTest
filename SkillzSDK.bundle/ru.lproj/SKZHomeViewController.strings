@@ -1,0 +1,27 @@
+/* Class = "IBUIView"; accessibilityLabel = "Home Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Начальный экран";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Play Tab Button"; ObjectID = "PB1-lJ-AGG"; */
+"PB1-lJ-AGG.accessibilityLabel" = "Кнопка вкладки «Игра»";
+
+/* Class = "IBUIButton"; normalTitle = "GAMES"; ObjectID = "PB1-lJ-AGG"; */
+"PB1-lJ-AGG.normalTitle" = "ИГРЫ";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Store Tab Button"; ObjectID = "PNT-pl-ORR"; */
+"PNT-pl-ORR.accessibilityLabel" = "Кнопка вкладки «Магазин»";
+
+/* Class = "IBUIButton"; normalTitle = "STORE"; ObjectID = "PNT-pl-ORR"; */
+"PNT-pl-ORR.normalTitle" = "МАГАЗИН";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Friends Tab Button"; ObjectID = "hil-gP-aDa"; */
+"hil-gP-aDa.accessibilityLabel" = "Кнопка вкладки «Друзья»";
+
+/* Class = "IBUIButton"; normalTitle = "FRIENDS"; ObjectID = "hil-gP-aDa"; */
+"hil-gP-aDa.normalTitle" = "ДРУЗЬЯ";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Rankings Tab Button"; ObjectID = "lnR-4N-bTK"; */
+"lnR-4N-bTK.accessibilityLabel" = "Кнопка вкладки «Рейтинг»";
+
+/* Class = "IBUIButton"; normalTitle = "RANKINGS"; ObjectID = "lnR-4N-bTK"; */
+"lnR-4N-bTK.normalTitle" = "МЕСТА";
+

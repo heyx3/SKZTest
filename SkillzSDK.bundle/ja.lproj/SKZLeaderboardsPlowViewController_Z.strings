@@ -1,0 +1,24 @@
+/* Class = "IBUIView"; accessibilityLabel = "Leaderboard Unlocked"; ObjectID = "1"; */
+"1.accessibilityLabel" = "リーダーボードのロック解除";
+
+/* Class = "IBUILabel"; text = "2000"; ObjectID = "IAr-Qo-kMC"; */
+"IAr-Qo-kMC.text" = "2000";
+
+/* Class = "IBUILabel"; text = "1000"; ObjectID = "JHy-ob-IPc"; */
+"JHy-ob-IPc.text" = "1000";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Unlocked Next"; ObjectID = "L4R-kl-8Ts"; */
+"L4R-kl-8Ts.accessibilityLabel" = "次をロック解除";
+
+/* Class = "IBUIButton"; normalTitle = "NEXT"; ObjectID = "L4R-kl-8Ts"; */
+"L4R-kl-8Ts.normalTitle" = "次へ";
+
+/* Class = "IBUILabel"; text = "1500"; ObjectID = "gOE-7S-ktz"; */
+"gOE-7S-ktz.text" = "1500";
+
+/* Class = "IBUILabel"; text = "Ends In: "; ObjectID = "sAU-hx-x9L"; */
+"sAU-hx-x9L.text" = "残り時間： ";
+
+/* Class = "IBUILabel"; text = "LEADERBOARDS UNLOCKED!"; ObjectID = "uB1-sG-Wbh"; */
+"uB1-sG-Wbh.text" = "リーダーボードがロック解除されました！";
+

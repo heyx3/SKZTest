@@ -1,0 +1,12 @@
+/* Class = "IBUIButton"; normalTitle = "SEE MORE"; ObjectID = "8bP-xf-fbm"; */
+"8bP-xf-fbm.normalTitle" = "ЕЩЕ";
+
+/* Class = "IBUILabel"; text = "TOP PRIZE"; ObjectID = "dkb-gx-ZnJ"; */
+"dkb-gx-ZnJ.text" = "ГЛАВНЫЙ ПРИЗ";
+
+/* Class = "IBUILabel"; text = "Fee:"; ObjectID = "thw-OM-ugG"; */
+"thw-OM-ugG.text" = "Оплата:";
+
+/* Class = "IBUILabel"; text = "IN PRIZES"; ObjectID = "ui3-Af-LUy"; */
+"ui3-Af-LUy.text" = "В ВИДЕ ПРИЗОВ";
+

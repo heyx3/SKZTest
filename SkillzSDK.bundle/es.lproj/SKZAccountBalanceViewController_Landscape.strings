@@ -1,0 +1,24 @@
+/* Class = "IBUILabel"; text = "Bal"; ObjectID = "A7c-Nv-LiJ"; */
+"A7c-Nv-LiJ.text" = "Sal";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Filter Button"; ObjectID = "LGv-P4-sZ0"; */
+"LGv-P4-sZ0.accessibilityLabel" = "Botón Filtro";
+
+/* Class = "IBUIButton"; normalTitle = "All Transactions"; ObjectID = "LGv-P4-sZ0"; */
+"LGv-P4-sZ0.normalTitle" = "Todas las transacciones";
+
+/* Class = "IBUILabel"; text = "Event"; ObjectID = "XBT-hA-ktO"; */
+"XBT-hA-ktO.text" = "Evento";
+
+/* Class = "IBUILabel"; text = "+/-"; ObjectID = "Yyc-0I-k7a"; */
+"Yyc-0I-k7a.text" = "+/-";
+
+/* Class = "IBUILabel"; text = "Date&Time"; ObjectID = "ciP-ve-TpJ"; */
+"ciP-ve-TpJ.text" = "Fecha y hora";
+
+/* Class = "IBUILabel"; text = "Game"; ObjectID = "ddv-su-SjO"; */
+"ddv-su-SjO.text" = "Juego";
+
+/* Class = "IBUIButton"; normalTitle = "Done"; ObjectID = "dxF-Ge-ZDM"; */
+"dxF-Ge-ZDM.normalTitle" = "Hecho";
+

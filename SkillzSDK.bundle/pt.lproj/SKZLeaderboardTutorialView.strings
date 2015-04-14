@@ -1,0 +1,33 @@
+/* Class = "IBUIButton"; accessibilityLabel = "Leaderboard Tutorial Skip Button"; ObjectID = "2Le-hL-b1y"; */
+"2Le-hL-b1y.accessibilityLabel" = "Tutorial do placar Botão Pular";
+
+/* Class = "IBUIButton"; normalTitle = "Skip"; ObjectID = "2Le-hL-b1y"; */
+"2Le-hL-b1y.normalTitle" = "Pular";
+
+/* Class = "IBUILabel"; text = "Above you can see:\n• if you're in the pro or practice league\n• days left until prizes are given out\n• prizes you can win"; ObjectID = "MLh-uZ-Gwj"; */
+"MLh-uZ-Gwj.text" = "Acima há:\n• se você estiver na liga profissional ou prática\n• dias restantes a distribuição dos prêmios\n• prêmios que você pode ganhar";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Leaderboard Tutorial Next Button"; ObjectID = "ZVP-6u-Ubt"; */
+"ZVP-6u-Ubt.accessibilityLabel" = "Tutorial do placar Botão Avançar";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "ZVP-6u-Ubt"; */
+"ZVP-6u-Ubt.normalTitle" = "Avançar";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Leaderboard Tutorial Start Playing Button"; ObjectID = "dL1-Px-uet"; */
+"dL1-Px-uet.accessibilityLabel" = "Tutorial do placar Botão Começar a jogar";
+
+/* Class = "IBUIButton"; normalTitle = "Start Playing"; ObjectID = "dL1-Px-uet"; */
+"dL1-Px-uet.normalTitle" = "Começar a jogar";
+
+/* Class = "IBUIView"; accessibilityLabel = "Leaderboard Tutorial"; ObjectID = "h2H-0p-dS5"; */
+"h2H-0p-dS5.accessibilityLabel" = "Tutorial do placar";
+
+/* Class = "IBUILabel"; accessibilityLabel = "Leaderboard Tutorial Player Ranking Text"; ObjectID = "whC-N9-dIZ"; */
+"whC-N9-dIZ.accessibilityLabel" = "Tutorial do placar Texto da classificação do jogador";
+
+/* Class = "IBUILabel"; text = "Below are the rankings for each player. \nYou will be highlighted in blue."; ObjectID = "whC-N9-dIZ"; */
+"whC-N9-dIZ.text" = "Abaixo encontram-se as classificações de cada jogador. \nVocê será destacado em azul.";
+
+/* Class = "IBUILabel"; text = "Above you can see:\n• if you're in the pro or practice league\n• days left until the leaderboard ends"; ObjectID = "xjN-pC-Iey"; */
+"xjN-pC-Iey.text" = "Acima há:\n• se você estiver na liga profissional ou prática\n• dias restantes até o fim do placar";
+

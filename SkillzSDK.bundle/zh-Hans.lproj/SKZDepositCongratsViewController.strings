@@ -1,0 +1,33 @@
+/* Class = "IBUILabel"; text = "$0.xx"; ObjectID = "Dhz-gX-Zea"; */
+"Dhz-gX-Zea.text" = "$0.xx";
+
+/* Class = "IBUILabel"; text = "Deposit Bonus"; ObjectID = "EPg-Qk-QFV"; */
+"EPg-Qk-QFV.text" = "存款额外奖励";
+
+/* Class = "IBUILabel"; text = "Deposit Amount"; ObjectID = "Hia-Lt-JZG"; */
+"Hia-Lt-JZG.text" = "存款金额";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Okay"; ObjectID = "SVz-hA-PNA"; */
+"SVz-hA-PNA.accessibilityLabel" = "好的";
+
+/* Class = "IBUIButton"; normalTitle = "OK, I'M READY TO WIN"; ObjectID = "SVz-hA-PNA"; */
+"SVz-hA-PNA.normalTitle" = "好，我做好赢钱的准备了";
+
+/* Class = "IBUILabel"; text = "New Balance"; ObjectID = "Ukd-3q-aF9"; */
+"Ukd-3q-aF9.text" = "新余额";
+
+/* Class = "IBUILabel"; text = "$0.xx"; ObjectID = "Zot-fc-d0u"; */
+"Zot-fc-d0u.text" = "$0.xx";
+
+/* Class = "IBUILabel"; text = "Previous Balance"; ObjectID = "ehW-Xa-Dbe"; */
+"ehW-Xa-Dbe.text" = "之前的余额";
+
+/* Class = "IBUILabel"; text = "DEPOSIT RECEIVED!"; ObjectID = "gGn-RC-7bV"; */
+"gGn-RC-7bV.text" = "存款已收到！";
+
+/* Class = "IBUILabel"; text = "$0.xx"; ObjectID = "vxg-kL-YBS"; */
+"vxg-kL-YBS.text" = "$0.xx";
+
+/* Class = "IBUILabel"; text = "$0.xx"; ObjectID = "z0E-F9-pM4"; */
+"z0E-F9-pM4.text" = "$0.xx";
+

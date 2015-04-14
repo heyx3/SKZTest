@@ -1,0 +1,30 @@
+/* Class = "IBUILabel"; text = "IN BONUS CASH"; ObjectID = "6zw-Qb-6au"; */
+"6zw-Qb-6au.text" = "IN CONTANTE BONUS";
+
+/* Class = "IBUILabel"; text = "For each friend who makes a deposit"; ObjectID = "A0A-Ap-hhn"; */
+"A0A-Ap-hhn.text" = "Per ogni amico che effettua un deposito";
+
+/* Class = "IBUILabel"; text = "GET"; ObjectID = "MwI-gl-erm"; */
+"MwI-gl-erm.text" = "OTTIENI";
+
+/* Class = "IBUIButton"; normalTitle = "COPY LINK"; ObjectID = "Okh-JG-Sf3"; */
+"Okh-JG-Sf3.normalTitle" = "COPIA LINK";
+
+/* Class = "IBUILabel"; text = "Invite Link Copied!"; ObjectID = "R8Q-y0-DHB"; */
+"R8Q-y0-DHB.text" = "Link di invito copiato!";
+
+/* Class = "IBUILabel"; text = "INVITE YOUR FRIENDS"; ObjectID = "ZIR-xC-WMn"; */
+"ZIR-xC-WMn.text" = "INVITA I TUOI AMICI";
+
+/* Class = "IBUIView"; accessibilityLabel = "Invites Overlay"; ObjectID = "abj-mk-eDY"; */
+"abj-mk-eDY.accessibilityLabel" = "Invites Overlay";
+
+/* Class = "IBUIButton"; normalTitle = "EMAIL"; ObjectID = "fZ9-Yv-qeg"; */
+"fZ9-Yv-qeg.normalTitle" = "E-MAIL";
+
+/* Class = "IBUIButton"; normalTitle = "MESSAGE"; ObjectID = "he9-IY-h2n"; */
+"he9-IY-h2n.normalTitle" = "MESSAGGIO";
+
+/* Class = "IBUIButton"; normalTitle = "TWITTER"; ObjectID = "xMS-JH-am9"; */
+"xMS-JH-am9.normalTitle" = "TWITTER";
+

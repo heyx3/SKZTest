@@ -1,0 +1,33 @@
+/* Class = "IBUIButton"; accessibilityLabel = "Leaderboard Tutorial Skip Button"; ObjectID = "2Le-hL-b1y"; */
+"2Le-hL-b1y.accessibilityLabel" = "Кнопка «Пропустить» в руководстве по таблице лидеров";
+
+/* Class = "IBUIButton"; normalTitle = "Skip"; ObjectID = "2Le-hL-b1y"; */
+"2Le-hL-b1y.normalTitle" = "Пропустить";
+
+/* Class = "IBUILabel"; text = "Above you can see:\n• if you're in the pro or practice league\n• days left until prizes are given out\n• prizes you can win"; ObjectID = "MLh-uZ-Gwj"; */
+"MLh-uZ-Gwj.text" = "Выше показаны следующие сведения:\n• состоите ли вы в профессиональной или учебной лиге\n• сколько дней осталось до выдачи призов\n• какие призы вы можете выиграть";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Leaderboard Tutorial Next Button"; ObjectID = "ZVP-6u-Ubt"; */
+"ZVP-6u-Ubt.accessibilityLabel" = "Кнопка «Далее» в руководстве по таблице лидеров";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "ZVP-6u-Ubt"; */
+"ZVP-6u-Ubt.normalTitle" = "Далее";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Leaderboard Tutorial Start Playing Button"; ObjectID = "dL1-Px-uet"; */
+"dL1-Px-uet.accessibilityLabel" = "Кнопка начала игры в руководстве по таблице лидеров";
+
+/* Class = "IBUIButton"; normalTitle = "Start Playing"; ObjectID = "dL1-Px-uet"; */
+"dL1-Px-uet.normalTitle" = "Начать воспроизведение";
+
+/* Class = "IBUIView"; accessibilityLabel = "Leaderboard Tutorial"; ObjectID = "h2H-0p-dS5"; */
+"h2H-0p-dS5.accessibilityLabel" = "Руководство по таблице лидеров";
+
+/* Class = "IBUILabel"; accessibilityLabel = "Leaderboard Tutorial Player Ranking Text"; ObjectID = "whC-N9-dIZ"; */
+"whC-N9-dIZ.accessibilityLabel" = "Текст об определении мест игроков в руководстве по таблице лидеров";
+
+/* Class = "IBUILabel"; text = "Below are the rankings for each player. \nYou will be highlighted in blue."; ObjectID = "whC-N9-dIZ"; */
+"whC-N9-dIZ.text" = "Ниже указано место каждого игрока. \nВаши данные будут выделены синим цветом.";
+
+/* Class = "IBUILabel"; text = "Above you can see:\n• if you're in the pro or practice league\n• days left until the leaderboard ends"; ObjectID = "xjN-pC-Iey"; */
+"xjN-pC-Iey.text" = "Выше показаны следующие сведения:\n• состоите ли вы в профессиональной или учебной лиге\n• сколько дней осталось до выдачи призов";
+

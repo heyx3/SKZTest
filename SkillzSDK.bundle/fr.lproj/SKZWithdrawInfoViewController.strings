@@ -1,0 +1,69 @@
+/* Class = "IBUIView"; accessibilityLabel = "Withdraw Info Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Écran infos de retrait";
+
+/* Class = "IBUITextField"; accessibilityLabel = "AptUnitBldgField"; ObjectID = "7H9-fw-ETv"; */
+"7H9-fw-ETv.accessibilityLabel" = "Champ apt étage bât";
+
+/* Class = "IBUITextField"; placeholder = "Apt, Unit, Bldg"; ObjectID = "7H9-fw-ETv"; */
+"7H9-fw-ETv.placeholder" = "Appartement, Étage, Bâtiment";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Phone Field"; ObjectID = "EmR-hb-b4M"; */
+"EmR-hb-b4M.accessibilityLabel" = "Champ téléphone";
+
+/* Class = "IBUITextField"; placeholder = "Phone"; ObjectID = "EmR-hb-b4M"; */
+"EmR-hb-b4M.placeholder" = "Téléphone";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Zip Field"; ObjectID = "HSh-iR-ZGY"; */
+"HSh-iR-ZGY.accessibilityLabel" = "Champ de code postal";
+
+/* Class = "IBUITextField"; placeholder = "State/Province"; ObjectID = "HSh-iR-ZGY"; */
+"HSh-iR-ZGY.placeholder" = "État/Province";
+
+/* Class = "IBUILabel"; text = "Withdraw Information"; ObjectID = "Oy8-FY-Cpq"; */
+"Oy8-FY-Cpq.text" = "Information de retrait";
+
+/* Class = "IBUIButton"; accessibilityLabel = "CancelButton"; ObjectID = "RLV-tY-Qnc"; */
+"RLV-tY-Qnc.accessibilityLabel" = "Bouton d'annulation";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "RLV-tY-Qnc"; */
+"RLV-tY-Qnc.normalTitle" = "Annuler";
+
+/* Class = "IBUITextField"; accessibilityLabel = "StreetAddressField"; ObjectID = "UVR-9F-LSU"; */
+"UVR-9F-LSU.accessibilityLabel" = "Champ d'adresse";
+
+/* Class = "IBUITextField"; placeholder = "Street Address"; ObjectID = "UVR-9F-LSU"; */
+"UVR-9F-LSU.placeholder" = "Adresse";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Update Button"; ObjectID = "VRt-BW-fwj"; */
+"VRt-BW-fwj.accessibilityLabel" = "Bouton de mise à jour";
+
+/* Class = "IBUIButton"; normalTitle = "Update"; ObjectID = "VRt-BW-fwj"; */
+"VRt-BW-fwj.normalTitle" = "Mettre à jour";
+
+/* Class = "IBUITextField"; accessibilityLabel = "ZipCodeField"; ObjectID = "eSN-fY-9bK"; */
+"eSN-fY-9bK.accessibilityLabel" = "Champ de code postal";
+
+/* Class = "IBUITextField"; placeholder = "Postal Code"; ObjectID = "eSN-fY-9bK"; */
+"eSN-fY-9bK.placeholder" = "Code postal";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Zip Field"; ObjectID = "g1g-fh-XWn"; */
+"g1g-fh-XWn.accessibilityLabel" = "Champ de code postal";
+
+/* Class = "IBUITextField"; placeholder = "City"; ObjectID = "g1g-fh-XWn"; */
+"g1g-fh-XWn.placeholder" = "Ville";
+
+/* Class = "IBUITextField"; accessibilityLabel = "FirstNameField"; ObjectID = "kxM-Pr-axE"; */
+"kxM-Pr-axE.accessibilityLabel" = "Champ de prénom";
+
+/* Class = "IBUITextField"; placeholder = "First Name"; ObjectID = "kxM-Pr-axE"; */
+"kxM-Pr-axE.placeholder" = "Prénom";
+
+/* Class = "IBUITextField"; accessibilityLabel = "LastNameField"; ObjectID = "nci-yJ-SHm"; */
+"nci-yJ-SHm.accessibilityLabel" = "Champ de nom";
+
+/* Class = "IBUITextField"; placeholder = "Last Name"; ObjectID = "nci-yJ-SHm"; */
+"nci-yJ-SHm.placeholder" = "Nom";
+
+/* Class = "IBUIImageView"; accessibilityLabel = "PhoneField"; ObjectID = "vNe-LZ-GN8"; */
+"vNe-LZ-GN8.accessibilityLabel" = "Champ de téléphone";
+

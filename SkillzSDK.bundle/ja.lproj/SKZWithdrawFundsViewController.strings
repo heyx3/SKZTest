@@ -1,0 +1,42 @@
+/* Class = "IBUILabel"; text = "$20.00"; ObjectID = "4zM-dM-7Jz"; */
+"4zM-dM-7Jz.text" = "$20.00";
+
+/* Class = "IBUILabel"; text = "Withdrawal Code (Optional)"; ObjectID = "6vd-SZ-o8i"; */
+"6vd-SZ-o8i.text" = "撤退コード(オプション)";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Withdraw Amount Field"; ObjectID = "AVj-l5-TYC"; */
+"AVj-l5-TYC.accessibilityLabel" = "引き出し額フィールド";
+
+/* Class = "IBUITextField"; placeholder = "$0.00"; ObjectID = "AVj-l5-TYC"; */
+"AVj-l5-TYC.placeholder" = "$0.00";
+
+/* Class = "IBUIButton"; accessibilityLabel = "CancelButton"; ObjectID = "D6L-QL-vZS"; */
+"D6L-QL-vZS.accessibilityLabel" = "キャンセルボタン";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "D6L-QL-vZS"; */
+"D6L-QL-vZS.normalTitle" = "キャンセル";
+
+/* Class = "IBUILabel"; text = "$2.00"; ObjectID = "E5c-Zc-WNz"; */
+"E5c-Zc-WNz.text" = "$2.00";
+
+/* Class = "IBUILabel"; text = "Withdraw Amount"; ObjectID = "I7X-Yk-CEU"; */
+"I7X-Yk-CEU.text" = "この額を引き出し";
+
+/* Class = "IBUILabel"; text = "Account Balance"; ObjectID = "Lu1-pO-9Nn"; */
+"Lu1-pO-9Nn.text" = "アカウント残高";
+
+/* Class = "IBUILabel"; text = "Available Withdraw"; ObjectID = "iuA-8i-IJO"; */
+"iuA-8i-IJO.text" = "利用可能な引き出し";
+
+/* Class = "IBUIView"; accessibilityLabel = "Withdraw Screen"; ObjectID = "jxY-5U-FcE"; */
+"jxY-5U-FcE.accessibilityLabel" = "引き出し画面";
+
+/* Class = "IBUILabel"; text = "Cash Out Your Winnings"; ObjectID = "ncv-h7-LaG"; */
+"ncv-h7-LaG.text" = "あなたの賞金をキャッシュアウト";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Next Button"; ObjectID = "vhJ-gN-SD9"; */
+"vhJ-gN-SD9.accessibilityLabel" = "次へボタン";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "vhJ-gN-SD9"; */
+"vhJ-gN-SD9.normalTitle" = "次へ";
+

@@ -1,0 +1,33 @@
+/* Class = "IBUILabel"; text = "Your Username"; ObjectID = "DcV-MS-FcQ"; */
+"DcV-MS-FcQ.text" = "Tu nombre de usuario";
+
+/* Class = "IBUIButton"; normalTitle = "SUBMIT"; ObjectID = "G6U-H0-ngQ"; */
+"G6U-H0-ngQ.normalTitle" = "PRESENTAR";
+
+/* Class = "IBUILabel"; text = "You can change it later in your profile"; ObjectID = "Jp1-sT-mzQ"; */
+"Jp1-sT-mzQ.text" = "Puedes cambiarlo más adelante en tu perfil";
+
+/* Class = "IBUILabel"; text = "Your Avatar"; ObjectID = "Uq3-ZE-NZb"; */
+"Uq3-ZE-NZb.text" = "Tu avatar";
+
+/* Class = "IBUILabel"; text = "You may only change it once"; ObjectID = "hSX-WV-Syb"; */
+"hSX-WV-Syb.text" = "Puedes cambiarlo una vez";
+
+/* Class = "IBUILabel"; text = "Pick A Name & An Avatar"; ObjectID = "r73-gN-Upr"; */
+"r73-gN-Upr.text" = "Elige un nombre y un avatar";
+
+/* Class = "IBUIButton"; accessibilityLabel = "SignInButton"; ObjectID = "rTF-Mx-WXh"; */
+"rTF-Mx-WXh.accessibilityLabel" = "Botón Inicio de sesión";
+
+/* Class = "IBUIButton"; normalTitle = "SIGN IN"; ObjectID = "rTF-Mx-WXh"; */
+"rTF-Mx-WXh.normalTitle" = "INICIAR SESIÓN";
+
+/* Class = "IBUIButton"; normalTitle = "SELECT FROM LIBRARY"; ObjectID = "tgY-15-Oqb"; */
+"tgY-15-Oqb.normalTitle" = "SELECCIONAR DE LA BIBLIOTECA";
+
+/* Class = "IBUIButton"; accessibilityLabel = "FTU Next"; ObjectID = "w0r-Xz-aLE"; */
+"w0r-Xz-aLE.accessibilityLabel" = "Siguiente FTU";
+
+/* Class = "IBUIButton"; normalTitle = "BEGIN MATCH"; ObjectID = "w0r-Xz-aLE"; */
+"w0r-Xz-aLE.normalTitle" = "EMPEZAR PARTIDA";
+

@@ -1,0 +1,12 @@
+/* Class = "IBUIButton"; normalTitle = "SEE MORE"; ObjectID = "8bP-xf-fbm"; */
+"8bP-xf-fbm.normalTitle" = "查看详细信息";
+
+/* Class = "IBUILabel"; text = "TOP PRIZE"; ObjectID = "dkb-gx-ZnJ"; */
+"dkb-gx-ZnJ.text" = "最高奖";
+
+/* Class = "IBUILabel"; text = "Fee:"; ObjectID = "thw-OM-ugG"; */
+"thw-OM-ugG.text" = "费用:";
+
+/* Class = "IBUILabel"; text = "IN PRIZES"; ObjectID = "ui3-Af-LUy"; */
+"ui3-Af-LUy.text" = "奖品";
+

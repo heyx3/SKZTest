@@ -1,0 +1,66 @@
+/* Class = "IBUIView"; accessibilityLabel = "Withdraw Info Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "引き出し情報画面";
+
+/* Class = "IBUITextField"; accessibilityLabel = "AptUnitBldgField"; ObjectID = "7H9-fw-ETv"; */
+"7H9-fw-ETv.accessibilityLabel" = "アパート、ユニット、ビルフィールド";
+
+/* Class = "IBUITextField"; placeholder = "Apt, Unit, Bldg"; ObjectID = "7H9-fw-ETv"; */
+"7H9-fw-ETv.placeholder" = "アパート、ユニット、ビル";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Phone Field"; ObjectID = "EmR-hb-b4M"; */
+"EmR-hb-b4M.accessibilityLabel" = "電話フィールド";
+
+/* Class = "IBUITextField"; placeholder = "Phone"; ObjectID = "EmR-hb-b4M"; */
+"EmR-hb-b4M.placeholder" = "電話";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Zip Field"; ObjectID = "Hh1-ei-Cys"; */
+"Hh1-ei-Cys.accessibilityLabel" = "郵便番号フィールド";
+
+/* Class = "IBUITextField"; placeholder = "City"; ObjectID = "Hh1-ei-Cys"; */
+"Hh1-ei-Cys.placeholder" = "都市";
+
+/* Class = "IBUILabel"; text = "Enter Your Infomation"; ObjectID = "Oy8-FY-Cpq"; */
+"Oy8-FY-Cpq.text" = "情報を入力してください";
+
+/* Class = "IBUIButton"; accessibilityLabel = "CancelButton"; ObjectID = "RLV-tY-Qnc"; */
+"RLV-tY-Qnc.accessibilityLabel" = "キャンセルボタン";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "RLV-tY-Qnc"; */
+"RLV-tY-Qnc.normalTitle" = "キャンセル";
+
+/* Class = "IBUITextField"; accessibilityLabel = "StreetAddressField"; ObjectID = "UVR-9F-LSU"; */
+"UVR-9F-LSU.accessibilityLabel" = "住所フィールド";
+
+/* Class = "IBUITextField"; placeholder = "Street Address"; ObjectID = "UVR-9F-LSU"; */
+"UVR-9F-LSU.placeholder" = "住所";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Update Button"; ObjectID = "VRt-BW-fwj"; */
+"VRt-BW-fwj.accessibilityLabel" = "更新ボタン";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "VRt-BW-fwj"; */
+"VRt-BW-fwj.normalTitle" = "次へ";
+
+/* Class = "IBUITextField"; accessibilityLabel = "ZipField"; ObjectID = "eSN-fY-9bK"; */
+"eSN-fY-9bK.accessibilityLabel" = "郵便番号フィールド";
+
+/* Class = "IBUITextField"; placeholder = "Postal Code"; ObjectID = "eSN-fY-9bK"; */
+"eSN-fY-9bK.placeholder" = "郵便番号";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Zip Field"; ObjectID = "kKM-b6-2dA"; */
+"kKM-b6-2dA.accessibilityLabel" = "郵便番号フィールド";
+
+/* Class = "IBUITextField"; placeholder = "State/Province"; ObjectID = "kKM-b6-2dA"; */
+"kKM-b6-2dA.placeholder" = "州/郡";
+
+/* Class = "IBUITextField"; accessibilityLabel = "FirstNameField"; ObjectID = "kxM-Pr-axE"; */
+"kxM-Pr-axE.accessibilityLabel" = "名前フィールド";
+
+/* Class = "IBUITextField"; placeholder = "First Name"; ObjectID = "kxM-Pr-axE"; */
+"kxM-Pr-axE.placeholder" = "名前";
+
+/* Class = "IBUITextField"; accessibilityLabel = "LastNameField"; ObjectID = "nci-yJ-SHm"; */
+"nci-yJ-SHm.accessibilityLabel" = "姓フィールド";
+
+/* Class = "IBUITextField"; placeholder = "Last Name"; ObjectID = "nci-yJ-SHm"; */
+"nci-yJ-SHm.placeholder" = "姓";
+

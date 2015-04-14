@@ -1,0 +1,27 @@
+/* Class = "IBUILabel"; text = "Above you can see:\n• if you're in the pro or practice league\n• days left until the leaderboard ends"; ObjectID = "FVK-e2-7Ng"; */
+"FVK-e2-7Ng.text" = "上記では次を見ることができます：\n• あなたがプロリーグか、練習リーグか\n• 賞品がもらえるまでの残り時間";
+
+/* Class = "IBUIButton"; normalTitle = "Start Playing"; ObjectID = "N2y-TW-XjR"; */
+"N2y-TW-XjR.normalTitle" = "プレイを開始";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Leaderboard Next"; ObjectID = "hVG-BB-sSt"; */
+"hVG-BB-sSt.accessibilityLabel" = "リーダーボード次へ";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "hVG-BB-sSt"; */
+"hVG-BB-sSt.normalTitle" = "次へ";
+
+/* Class = "IBUILabel"; text = "Above you can see:\n• if you're in the pro or practice league\n• days left until prizes are given out\n• prizes you can win"; ObjectID = "iDo-By-NHg"; */
+"iDo-By-NHg.text" = "上記では次を見ることができます：\n• あなたがプロリーグか、練習リーグか\n• 賞品がもらえるまでの残り時間\n• 勝利した時の賞品";
+
+/* Class = "IBUIView"; accessibilityLabel = "Leaderboards Unlocked"; ObjectID = "nom-vv-2gX"; */
+"nom-vv-2gX.accessibilityLabel" = "リーダーボードロック解除";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Skip Button"; ObjectID = "nqu-WQ-xaS"; */
+"nqu-WQ-xaS.accessibilityLabel" = "ボタンをスキップ";
+
+/* Class = "IBUIButton"; normalTitle = "Skip"; ObjectID = "nqu-WQ-xaS"; */
+"nqu-WQ-xaS.normalTitle" = "スキップ";
+
+/* Class = "IBUILabel"; text = "On the right are the rankings for each player. \n\nYou will be highlighted in blue."; ObjectID = "wOf-Yx-3VS"; */
+"wOf-Yx-3VS.text" = "右側は各プレイヤーのランキングです。\n\nあなたは青色でハイライト表示さ​​れます。";
+

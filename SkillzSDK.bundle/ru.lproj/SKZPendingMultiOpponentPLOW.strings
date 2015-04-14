@@ -1,0 +1,18 @@
+/* Class = "IBUILabel"; text = "WINNER GETS"; ObjectID = "DkK-hs-3i9"; */
+"DkK-hs-3i9.text" = "ПОБЕДИТЕЛЬ ПОЛУЧАЕТ";
+
+/* Class = "IBUILabel"; text = "SCORE SUBMITTED"; ObjectID = "QdB-Q2-n8M"; */
+"QdB-Q2-n8M.text" = "СЧЕТ ОТПРАВЛЕН";
+
+/* Class = "IBUIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "SOs-U3-ce3"; */
+"SOs-U3-ce3.accessibilityLabel" = "ИГРАТЬ еще";
+
+/* Class = "IBUIButton"; normalTitle = "PLAY AGAIN"; ObjectID = "SOs-U3-ce3"; */
+"SOs-U3-ce3.normalTitle" = "ИГРАТЬ ЕЩЕ РАЗ";
+
+/* Class = "IBUIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "uvw-7j-I7g"; */
+"uvw-7j-I7g.accessibilityLabel" = "ИГРАТЬ еще";
+
+/* Class = "IBUIButton"; normalTitle = "NEXT"; ObjectID = "uvw-7j-I7g"; */
+"uvw-7j-I7g.normalTitle" = "ДАЛЕЕ";
+

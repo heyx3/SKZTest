@@ -1,0 +1,57 @@
+/* Class = "IBUILabel"; text = "Use cash to play for real money"; ObjectID = "6rT-Ju-wk3"; */
+"6rT-Ju-wk3.text" = "現金を使用して、現金を賭けたプレイをする。";
+
+/* Class = "IBUILabel"; text = "WANT TO PLAY WITH FRIENDS?"; ObjectID = "07e-Ia-0I2"; */
+"07e-Ia-0I2.text" = "お友達とプレイする？";
+
+/* Class = "IBUILabel"; text = "Redeem Ticketz™ for prizes."; ObjectID = "BVg-NZ-yF9"; */
+"BVg-NZ-yF9.text" = "賞品のためのTicketz™を買い戻す";
+
+/* Class = "IBUIButton"; normalTitle = "STORE"; ObjectID = "FFa-c8-JEx"; */
+"FFa-c8-JEx.normalTitle" = "ストア";
+
+/* Class = "IBUIButton"; normalTitle = "GAMES"; ObjectID = "HTY-s8-0OY"; */
+"HTY-s8-0OY.normalTitle" = "ゲーム";
+
+/* Class = "IBUILabel"; text = "Visit the store to add cash or earn more Z"; ObjectID = "IC6-ER-Tuv"; */
+"IC6-ER-Tuv.text" = "ストアを訪問して現金を追加するか、もっと稼ぐ。";
+
+/* Class = "IBUILabel"; text = "Play to win weekly prizes!"; ObjectID = "JjH-Rz-hHf"; */
+"JjH-Rz-hHf.text" = "プレイして毎週の賞品を獲得！";
+
+/* Class = "IBUILabel"; text = "Out of Cash or       ?"; ObjectID = "Khk-pT-Zh6"; */
+"Khk-pT-Zh6.text" = "キャッシュまたは       が足りない?";
+
+/* Class = "IBUILabel"; text = "This tutorial will quickly get you up and running on the Skillz Tournament system"; ObjectID = "Lx1-yD-A3T"; */
+"Lx1-yD-A3T.text" = "このチュートリアルでは、Skillzトーナメントシステムの使用方法をご覧いただけます。";
+
+/* Class = "IBUILabel"; text = "Use Z to play practice matches"; ObjectID = "M5L-fq-MGT"; */
+"M5L-fq-MGT.text" = "Zを利用して練習試合をプレイする。";
+
+/* Class = "IBUIButton"; normalTitle = "FRIENDS"; ObjectID = "O6G-Rp-qXd"; */
+"O6G-Rp-qXd.normalTitle" = "友達";
+
+/* Class = "IBUILabel"; text = "Tap Games to select a match"; ObjectID = "Q6l-Tj-FmH"; */
+"Q6l-Tj-FmH.text" = "ゲームをタップしてマッチを選択";
+
+/* Class = "IBUILabel"; text = "SKILLZ CURRENCIES"; ObjectID = "XTa-4n-3O3"; */
+"XTa-4n-3O3.text" = "SKILLZ通貨";
+
+/* Class = "IBUILabel"; text = "READY TO WIN?"; ObjectID = "dIm-rh-W3t"; */
+"dIm-rh-W3t.text" = "勝つ自信がある？";
+
+/* Class = "IBUILabel"; text = "WELCOME TO SKILLZ!"; ObjectID = "dvu-98-5am"; */
+"dvu-98-5am.text" = "SKILLZへようこそ！";
+
+/* Class = "IBUILabel"; text = "Play 5 matches to unlock leagues and see your ranking."; ObjectID = "fhZ-YQ-1x4"; */
+"fhZ-YQ-1x4.text" = "マッチを5回プレイしてリーグのロックを解除。 ランキングを見ることができます。";
+
+/* Class = "IBUIButton"; normalTitle = "RANKINGS"; ObjectID = "hih-Kq-R4v"; */
+"hih-Kq-R4v.normalTitle" = "ランキング";
+
+/* Class = "IBUILabel"; text = "LEAGUES"; ObjectID = "p3N-nE-pgR"; */
+"p3N-nE-pgR.text" = "リーグ";
+
+/* Class = "IBUILabel"; text = "Invite friends to play and get special offers for both of you!"; ObjectID = "u6n-ct-Nfc"; */
+"u6n-ct-Nfc.text" = "友達を紹介してプレイするとお二人に特別な贈り物があります！";
+

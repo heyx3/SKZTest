@@ -1,0 +1,9 @@
+/* Class = "IBUIView"; accessibilityLabel = "Deposit Selection Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Deposit Selection Screen";
+
+/* Class = "IBUILabel"; text = "DEPOSIT DISABLED"; ObjectID = "9QL-dd-aNF"; */
+"9QL-dd-aNF.text" = "DEPOSITO DISATTIVATO";
+
+/* Class = "IBUILabel"; text = "CHOOSE YOUR DEPOSIT AMOUNT"; ObjectID = "Niy-dA-Ttm"; */
+"Niy-dA-Ttm.text" = "SCEGLI L'IMPORTO DEL TUO DEPOSITO";
+

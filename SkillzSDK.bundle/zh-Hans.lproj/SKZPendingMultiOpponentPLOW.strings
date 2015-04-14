@@ -1,0 +1,18 @@
+/* Class = "IBUILabel"; text = "WINNER GETS"; ObjectID = "DkK-hs-3i9"; */
+"DkK-hs-3i9.text" = "赢家获得";
+
+/* Class = "IBUILabel"; text = "SCORE SUBMITTED"; ObjectID = "QdB-Q2-n8M"; */
+"QdB-Q2-n8M.text" = "提交的得分";
+
+/* Class = "IBUIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "SOs-U3-ce3"; */
+"SOs-U3-ce3.accessibilityLabel" = "开辟下一个";
+
+/* Class = "IBUIButton"; normalTitle = "PLAY AGAIN"; ObjectID = "SOs-U3-ce3"; */
+"SOs-U3-ce3.normalTitle" = "再玩一次";
+
+/* Class = "IBUIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "uvw-7j-I7g"; */
+"uvw-7j-I7g.accessibilityLabel" = "开辟下一个";
+
+/* Class = "IBUIButton"; normalTitle = "NEXT"; ObjectID = "uvw-7j-I7g"; */
+"uvw-7j-I7g.normalTitle" = "下一个";
+

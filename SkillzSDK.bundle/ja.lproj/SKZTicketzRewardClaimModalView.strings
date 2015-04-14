@@ -1,0 +1,18 @@
+/* Class = "IBUILabel"; text = "BONUS BUCKS"; ObjectID = "8Zo-Cg-7hF"; */
+"8Zo-Cg-7hF.text" = "ボーナスバックス";
+
+/* Class = "IBUILabel"; text = "REDEEMED!"; ObjectID = "98f-FF-PRR"; */
+"98f-FF-PRR.text" = "使用されました！";
+
+/* Class = "IBUILabel"; text = "$100"; ObjectID = "Obj-20-MtM"; */
+"Obj-20-MtM.text" = "$100";
+
+/* Class = "IBUILabel"; text = "SEA DOO SP"; ObjectID = "WEc-2o-Zcr"; */
+"WEc-2o-Zcr.text" = "水上スクーター SP";
+
+/* Class = "IBUILabel"; text = "SPARK"; ObjectID = "nDI-8O-tn9"; */
+"nDI-8O-tn9.text" = "スパーク";
+
+/* Class = "IBUILabel"; text = "SEA DOO"; ObjectID = "yMg-SR-VAY"; */
+"yMg-SR-VAY.text" = "水上スクーター";
+

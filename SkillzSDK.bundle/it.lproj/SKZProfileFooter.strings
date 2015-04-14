@@ -1,0 +1,18 @@
+/* Class = "IBUIView"; accessibilityLabel = "Profile Footer"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Profile Footer";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Profile Footer Show Profile Button"; ObjectID = "BDM-KD-4JH"; */
+"BDM-KD-4JH.accessibilityLabel" = "Profile Footer Show Profile Button";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Profile Footer Show Points Button"; ObjectID = "CBc-Ps-Mrl"; */
+"CBc-Ps-Mrl.accessibilityLabel" = "Profile Footer Show Points Button";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Profile Footer Show Ticketz Button"; ObjectID = "Tcz-CL-A5d"; */
+"Tcz-CL-A5d.accessibilityLabel" = "Profile Footer Show Ticketz Button";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Profile Footer Show Deposits Button"; ObjectID = "wDc-g5-82s"; */
+"wDc-g5-82s.accessibilityLabel" = "Profile Footer Show Deposits Button";
+
+/* Class = "IBUILabel"; text = "$"; ObjectID = "xUC-ki-qCw"; */
+"xUC-ki-qCw.text" = "$";
+

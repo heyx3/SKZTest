@@ -1,0 +1,21 @@
+/* Class = "IBUIView"; accessibilityLabel = "Trophies Home Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Ticketzホームスクリーン";
+
+/* Class = "IBUILabel"; text = "Trophies Earned"; ObjectID = "1hZ-H8-Bmn"; */
+"1hZ-H8-Bmn.text" = "獲得したトロフィー";
+
+/* Class = "IBUIButton"; normalTitle = "EARNED"; ObjectID = "JAN-Se-L1m"; */
+"JAN-Se-L1m.normalTitle" = "獲得済み";
+
+/* Class = "IBUIButton"; normalTitle = "UNEARNED"; ObjectID = "fOM-bT-1II"; */
+"fOM-bT-1II.normalTitle" = "未獲得";
+
+/* Class = "IBUILabel"; text = "Tap the present above to claim your trophy and scroll through the list of trophies to see what else you can earn!"; ObjectID = "ruV-UR-OzJ"; */
+"ruV-UR-OzJ.text" = "上のプレゼントをタップして、トロフィーを要求しよう。 トロフィーの一覧をスクロールしてどれを獲得できるか確認しよう！";
+
+/* Class = "IBUILabel"; text = "TROPHIES"; ObjectID = "yCN-d0-kGQ"; */
+"yCN-d0-kGQ.text" = "トロフィー";
+
+/* Class = "IBUILabel"; text = "CONGRATULATIONS!"; ObjectID = "ylK-4H-GYQ"; */
+"ylK-4H-GYQ.text" = "おめでとうございます！";
+

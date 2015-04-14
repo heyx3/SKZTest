@@ -1,0 +1,27 @@
+/* Class = "IBUIView"; accessibilityLabel = "Home Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "ホーム画面";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Play Match Tab"; ObjectID = "HZz-RP-gWP"; */
+"HZz-RP-gWP.accessibilityLabel" = "マッチをプレイタブ";
+
+/* Class = "IBUIButton"; normalTitle = "GAMES"; ObjectID = "HZz-RP-gWP"; */
+"HZz-RP-gWP.normalTitle" = "ゲーム";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Invite Button"; ObjectID = "KBU-dt-gv0"; */
+"KBU-dt-gv0.accessibilityLabel" = "招待ボタン";
+
+/* Class = "IBUIButton"; normalTitle = "FRIENDS"; ObjectID = "KBU-dt-gv0"; */
+"KBU-dt-gv0.normalTitle" = "友達";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Store Tab"; ObjectID = "QQY-Hk-q0y"; */
+"QQY-Hk-q0y.accessibilityLabel" = "ストアタブ";
+
+/* Class = "IBUIButton"; normalTitle = "SKILLZ STORE"; ObjectID = "QQY-Hk-q0y"; */
+"QQY-Hk-q0y.normalTitle" = "SKILLZストア";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Rankings Tab"; ObjectID = "mpA-yB-fs4"; */
+"mpA-yB-fs4.accessibilityLabel" = "ランキングタブ";
+
+/* Class = "IBUIButton"; normalTitle = "RANKINGS"; ObjectID = "mpA-yB-fs4"; */
+"mpA-yB-fs4.normalTitle" = "ランキング";
+

@@ -1,0 +1,9 @@
+/* Class = "IBUILabel"; text = "EMAIL VERIFICATION REQUIRED"; ObjectID = "37B-2S-YDa"; */
+"37B-2S-YDa.text" = "E-MAIL-PRÜFUNG ERFORDERLICH";
+
+/* Class = "IBUITextField"; placeholder = "Please enter email"; ObjectID = "g93-g9-bLd"; */
+"g93-g9-bLd.placeholder" = "Bitte gib deine E-Mail ein";
+
+/* Class = "IBUIButton"; normalTitle = "RESEND EMAIL"; ObjectID = "iYX-HB-lZL"; */
+"iYX-HB-lZL.normalTitle" = "E-MAIL ERNEUT SENDEN";
+

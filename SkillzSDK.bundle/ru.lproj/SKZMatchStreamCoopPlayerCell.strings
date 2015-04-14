@@ -1,0 +1,24 @@
+/* Class = "IBUILabel"; text = "VS"; ObjectID = "0ig-xZ-pgo"; */
+"0ig-xZ-pgo.text" = "ПРОТИВ";
+
+/* Class = "IBUILabel"; text = "Remind to Play"; ObjectID = "Qut-ES-guf"; */
+"Qut-ES-guf.text" = "Напомнить об игре";
+
+/* Class = "IBUILabel"; text = "EnormousClock"; ObjectID = "T5g-EN-0fV"; */
+"T5g-EN-0fV.text" = "EnormousClock";
+
+/* Class = "IBUILabel"; text = "WAITING 🕑"; ObjectID = "egn-YC-24e"; */
+"egn-YC-24e.text" = "ОЖИДАНИЕ 🕑";
+
+/* Class = "IBUILabel"; text = "Your Score"; ObjectID = "oON-Xh-RNP"; */
+"oON-Xh-RNP.text" = "Ваш счет";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "pYL-QN-Vrh"; */
+"pYL-QN-Vrh.normalTitle" = "Кнопка";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "pvm-Fu-Z55"; */
+"pvm-Fu-Z55.normalTitle" = "Кнопка";
+
+/* Class = "IBUILabel"; text = "🕑 WAITING"; ObjectID = "ywD-DT-l2e"; */
+"ywD-DT-l2e.text" = "🕑 ОЖИДАНИЕ";
+

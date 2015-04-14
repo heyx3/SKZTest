@@ -1,0 +1,27 @@
+/* Class = "IBUILabel"; text = "Above you can see:\n• if you're in the pro or practice league\n• days left until the leaderboard ends"; ObjectID = "FVK-e2-7Ng"; */
+"FVK-e2-7Ng.text" = "Выше показаны следующие сведения:\n• состоите ли вы в профессиональной или учебной лиге\n• сколько дней осталось до выдачи призов";
+
+/* Class = "IBUIButton"; normalTitle = "Start Playing"; ObjectID = "N2y-TW-XjR"; */
+"N2y-TW-XjR.normalTitle" = "Начать воспроизведение";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Leaderboard Next"; ObjectID = "hVG-BB-sSt"; */
+"hVG-BB-sSt.accessibilityLabel" = "Кнопка «Далее» в таблице лидеров";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "hVG-BB-sSt"; */
+"hVG-BB-sSt.normalTitle" = "Далее";
+
+/* Class = "IBUILabel"; text = "Above you can see:\n• if you're in the pro or practice league\n• days left until prizes are given out\n• prizes you can win"; ObjectID = "iDo-By-NHg"; */
+"iDo-By-NHg.text" = "Выше показаны следующие сведения:\n• состоите ли вы в профессиональной или учебной лиге\n• сколько дней осталось до выдачи призов\n• какие призы вы можете выиграть";
+
+/* Class = "IBUIView"; accessibilityLabel = "Leaderboards Unlocked"; ObjectID = "nom-vv-2gX"; */
+"nom-vv-2gX.accessibilityLabel" = "Таблицы лидеров разблокированы";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Skip Button"; ObjectID = "nqu-WQ-xaS"; */
+"nqu-WQ-xaS.accessibilityLabel" = "Кнопка «Пропустить»";
+
+/* Class = "IBUIButton"; normalTitle = "Skip"; ObjectID = "nqu-WQ-xaS"; */
+"nqu-WQ-xaS.normalTitle" = "Пропустить";
+
+/* Class = "IBUILabel"; text = "On the right are the rankings for each player. \n\nYou will be highlighted in blue."; ObjectID = "wOf-Yx-3VS"; */
+"wOf-Yx-3VS.text" = "Справа указано место каждого игрока. \n\nВаши данные будут выделены синим цветом.";
+

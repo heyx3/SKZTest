@@ -1,0 +1,9 @@
+/* Class = "IBUILabel"; text = "Status Label"; ObjectID = "1NI-iO-HWU"; */
+"1NI-iO-HWU.text" = "Statusanzeige";
+
+/* Class = "IBUILabel"; text = "PlayerName"; ObjectID = "6qi-Yf-329"; */
+"6qi-Yf-329.text" = "Spielername";
+
+/* Class = "IBUILabel"; text = "+$5.00"; ObjectID = "v0E-dU-Upj"; */
+"v0E-dU-Upj.text" = "+$5.00";
+

@@ -1,0 +1,54 @@
+/* Class = "IBUILabel"; text = "VS"; ObjectID = "1yf-hH-Qya"; */
+"1yf-hH-Qya.text" = "VS";
+
+/* Class = "IBUILabel"; text = "Player One"; ObjectID = "5LW-C3-g2g"; */
+"5LW-C3-g2g.text" = "Jogador um";
+
+/* Class = "IBUILabel"; text = "VS"; ObjectID = "6dY-gP-riG"; */
+"6dY-gP-riG.text" = "VS";
+
+/* Class = "IBUILabel"; text = "PRIZE"; ObjectID = "C7O-zb-deZ"; */
+"C7O-zb-deZ.text" = "PRÊMIO";
+
+/* Class = "IBUIButton"; normalTitle = "MATCH DETAILS"; ObjectID = "Cig-Cy-cpK"; */
+"Cig-Cy-cpK.normalTitle" = "DETALHES DA PARTIDA";
+
+/* Class = "IBUILabel"; text = "Player Two"; ObjectID = "Fsk-GE-SPw"; */
+"Fsk-GE-SPw.text" = "Jogador dois";
+
+/* Class = "IBUILabel"; text = "YOUR FIRST MATCH"; ObjectID = "INC-gA-8vz"; */
+"INC-gA-8vz.text" = "SUA PRIMEIRA PARTIDA";
+
+/* Class = "IBUILabel"; text = "2 Players"; ObjectID = "JPT-1t-r4N"; */
+"JPT-1t-r4N.text" = "2 jogadores";
+
+/* Class = "IBUILabel"; text = "100"; ObjectID = "LGS-58-dil"; */
+"LGS-58-dil.text" = "100";
+
+/* Class = "IBUILabel"; text = "Teammate"; ObjectID = "LkB-sK-7l0"; */
+"LkB-sK-7l0.text" = "Colega de equipe";
+
+/* Class = "IBUILabel"; text = "YOU"; ObjectID = "XOl-75-XSS"; */
+"XOl-75-XSS.text" = "VOCÊ";
+
+/* Class = "IBUILabel"; text = "Player One"; ObjectID = "gPb-Ll-T3m"; */
+"gPb-Ll-T3m.text" = "Jogador um";
+
+/* Class = "IBUILabel"; text = "Entry Fee: Free"; ObjectID = "l9S-EL-i1p"; */
+"l9S-EL-i1p.text" = "Taxa de entrada: Grátis";
+
+/* Class = "IBUILabel"; text = "YOU"; ObjectID = "lzJ-6K-qgQ"; */
+"lzJ-6K-qgQ.text" = "VOCÊ";
+
+/* Class = "IBUILabel"; text = "Challenger"; ObjectID = "qfr-uT-k66"; */
+"qfr-uT-k66.text" = "Desafiante";
+
+/* Class = "IBUILabel"; text = "Challenger"; ObjectID = "sh5-N7-sRb"; */
+"sh5-N7-sRb.text" = "Desafiante";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Begin Now"; ObjectID = "siG-SI-PNK"; */
+"siG-SI-PNK.accessibilityLabel" = "Começar agora";
+
+/* Class = "IBUIButton"; normalTitle = "BEGIN MATCH NOW"; ObjectID = "siG-SI-PNK"; */
+"siG-SI-PNK.normalTitle" = "COMEÇAR PARTIDA AGORA";
+

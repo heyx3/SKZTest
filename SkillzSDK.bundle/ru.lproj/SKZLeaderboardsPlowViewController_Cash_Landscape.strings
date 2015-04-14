@@ -1,0 +1,24 @@
+/* Class = "IBUIView"; accessibilityLabel = "Leaderboard Unlocked"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Таблица лидеров разблокирована";
+
+/* Class = "IBUILabel"; text = "Ends In: "; ObjectID = "2ME-P6-UKS"; */
+"2ME-P6-UKS.text" = "Закончится через ";
+
+/* Class = "IBUILabel"; text = "$150"; ObjectID = "FPp-fH-QcV"; */
+"FPp-fH-QcV.text" = "$150";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Unlocked Next"; ObjectID = "L4R-kl-8Ts"; */
+"L4R-kl-8Ts.accessibilityLabel" = "Кнопка «Далее» при снятии блокировки";
+
+/* Class = "IBUIButton"; normalTitle = "NEXT"; ObjectID = "L4R-kl-8Ts"; */
+"L4R-kl-8Ts.normalTitle" = "ДАЛЕЕ";
+
+/* Class = "IBUILabel"; text = "LEADERBOARDS UNLOCKED!"; ObjectID = "Q9J-rO-tdv"; */
+"Q9J-rO-tdv.text" = "ТАБЛИЦЫ ЛИДЕРОВ РАЗБЛОКИРОВАНЫ!";
+
+/* Class = "IBUILabel"; text = "$150"; ObjectID = "ZCJ-p6-fTG"; */
+"ZCJ-p6-fTG.text" = "$150";
+
+/* Class = "IBUILabel"; text = "$150"; ObjectID = "yvD-4j-cWw"; */
+"yvD-4j-cWw.text" = "$150";
+

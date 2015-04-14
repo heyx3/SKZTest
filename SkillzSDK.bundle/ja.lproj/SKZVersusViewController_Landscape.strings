@@ -1,0 +1,54 @@
+/* Class = "IBUILabel"; text = "VS"; ObjectID = "6dY-gP-riG"; */
+"6dY-gP-riG.text" = "VS";
+
+/* Class = "IBUILabel"; text = "YOUR FIRST MATCH"; ObjectID = "BOW-8c-caZ"; */
+"BOW-8c-caZ.text" = "初回マッチ";
+
+/* Class = "IBUILabel"; text = "PRIZE"; ObjectID = "C7O-zb-deZ"; */
+"C7O-zb-deZ.text" = "賞品";
+
+/* Class = "IBUILabel"; text = "Player Two"; ObjectID = "Fsk-GE-SPw"; */
+"Fsk-GE-SPw.text" = "プレイヤー2";
+
+/* Class = "IBUILabel"; text = "UNLIMITED ENTRY"; ObjectID = "JPT-1t-r4N"; */
+"JPT-1t-r4N.text" = "無制限エントリー";
+
+/* Class = "IBUILabel"; text = "100"; ObjectID = "LGS-58-dil"; */
+"LGS-58-dil.text" = "100";
+
+/* Class = "IBUILabel"; text = "Player Two"; ObjectID = "XLW-U3-okW"; */
+"XLW-U3-okW.text" = "プレイヤー2";
+
+/* Class = "IBUILabel"; text = "VS"; ObjectID = "ZE8-Ak-V9W"; */
+"ZE8-Ak-V9W.text" = "VS";
+
+/* Class = "IBUILabel"; text = "Player One"; ObjectID = "dFe-ey-TUp"; */
+"dFe-ey-TUp.text" = "プレイヤー1";
+
+/* Class = "IBUILabel"; text = "Player One"; ObjectID = "gPb-Ll-T3m"; */
+"gPb-Ll-T3m.text" = "プレイヤー1";
+
+/* Class = "IBUILabel"; text = "YOU"; ObjectID = "jCF-PN-R48"; */
+"jCF-PN-R48.text" = "あなた";
+
+/* Class = "IBUILabel"; text = "YOU"; ObjectID = "l5p-Ts-g90"; */
+"l5p-Ts-g90.text" = "あなた";
+
+/* Class = "IBUILabel"; text = "Entry: Free"; ObjectID = "l9S-EL-i1p"; */
+"l9S-EL-i1p.text" = "エントリ：無料";
+
+/* Class = "IBUIButton"; normalTitle = "MATCH DETAILS"; ObjectID = "qC9-NK-0ed"; */
+"qC9-NK-0ed.normalTitle" = "マッチの詳細";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Begin Now"; ObjectID = "siG-SI-PNK"; */
+"siG-SI-PNK.accessibilityLabel" = "今すぐ開始";
+
+/* Class = "IBUIButton"; normalTitle = "BEGIN MATCH NOW"; ObjectID = "siG-SI-PNK"; */
+"siG-SI-PNK.normalTitle" = "今すぐマッチ開始";
+
+/* Class = "IBUILabel"; text = "Player Two"; ObjectID = "tCB-eg-47a"; */
+"tCB-eg-47a.text" = "プレイヤー2";
+
+/* Class = "IBUILabel"; text = "Teammate"; ObjectID = "yCs-3T-LqJ"; */
+"yCs-3T-LqJ.text" = "チームメイト";
+

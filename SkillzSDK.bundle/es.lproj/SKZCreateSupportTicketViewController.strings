@@ -1,0 +1,18 @@
+/* Class = "IBUIButton"; normalTitle = "Done"; ObjectID = "Fkn-1x-wS3"; */
+"Fkn-1x-wS3.normalTitle" = "Hecho";
+
+/* Class = "IBUIButton"; normalTitle = "Select Support Category"; ObjectID = "N2e-kj-Ffc"; */
+"N2e-kj-Ffc.normalTitle" = "Seleccione Asistencia Categoría";
+
+/* Class = "IBUILabel"; text = "New Support Message"; ObjectID = "Vju-Xc-DoW"; */
+"Vju-Xc-DoW.text" = "Nueva Apoyo Mensaje";
+
+/* Class = "IBUITextField"; placeholder = "Enter Match ID (if applicable)"; ObjectID = "YtH-u0-gYG"; */
+"YtH-u0-gYG.placeholder" = "ID del partido (opcional)";
+
+/* Class = "IBUIButton"; normalTitle = "SUBMIT"; ObjectID = "cM6-G0-Jpo"; */
+"cM6-G0-Jpo.normalTitle" = "PRESENTAR";
+
+/* Class = "IBUIView"; accessibilityLabel = "Help Screen"; ObjectID = "eJs-IV-8yU"; */
+"eJs-IV-8yU.accessibilityLabel" = "Help Screen";
+

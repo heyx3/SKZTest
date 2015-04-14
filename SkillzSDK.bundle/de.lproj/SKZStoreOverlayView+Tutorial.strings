@@ -1,0 +1,42 @@
+/* Class = "IBUIButton"; normalTitle = "SKIP"; ObjectID = "4vS-Y4-OLl"; */
+"4vS-Y4-OLl.normalTitle" = "ÜBERSPRINGEN";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Store Overlay Tutorial Cash Speech Bubble Next Button"; ObjectID = "BAS-sX-h55"; */
+"BAS-sX-h55.accessibilityLabel" = "Store Overlay Tutorial Cash Speech Bubble Next Button";
+
+/* Class = "IBUIButton"; normalTitle = "NEXT"; ObjectID = "BAS-sX-h55"; */
+"BAS-sX-h55.normalTitle" = "WEITER";
+
+/* Class = "IBUILabel"; text = "Visit here to get more Z."; ObjectID = "WLo-dd-pxK"; */
+"WLo-dd-pxK.text" = "Hier erhälst du mehr Z.";
+
+/* Class = "IBUILabel"; text = "Check back often for great bonus deals!"; ObjectID = "XHd-Yl-INX"; */
+"XHd-Yl-INX.text" = "Achte auf unsere super Bonus-Angebote!";
+
+/* Class = "IBUILabel"; text = "Add cash to play for real money."; ObjectID = "YaQ-ee-7MJ"; */
+"YaQ-ee-7MJ.text" = "Füge Cash hinzu, und spiele um echtes Geld.";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Store Overlay Tutorial Cash Speech Bubble Skip Button"; ObjectID = "YlC-I6-6qZ"; */
+"YlC-I6-6qZ.accessibilityLabel" = "Store Overlay Tutorial Cash Speech Bubble Skip Button";
+
+/* Class = "IBUIButton"; normalTitle = "SKIP"; ObjectID = "YlC-I6-6qZ"; */
+"YlC-I6-6qZ.normalTitle" = "ÜBERSPRINGEN";
+
+/* Class = "IBUILabel"; text = "You'll need Z for practice matches."; ObjectID = "dwc-Sb-qZY"; */
+"dwc-Sb-qZY.text" = "Du benötigst Z für Probe-Matches";
+
+/* Class = "IBUIView"; accessibilityLabel = "Store Overlay Tutorial"; ObjectID = "k4W-73-bWu"; */
+"k4W-73-bWu.accessibilityLabel" = "Store Overlay Tutorial";
+
+/* Class = "IBUIView"; accessibilityLabel = "Store Overlay Tutorial Z Speech Bubble"; ObjectID = "oat-WE-9TG"; */
+"oat-WE-9TG.accessibilityLabel" = "Store Overlay Tutorial Z Speech Bubble";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Store Overlay Tutorial Z Speech Bubble Next Button"; ObjectID = "xlc-eS-b84"; */
+"xlc-eS-b84.accessibilityLabel" = "Store Overlay Tutorial Z Speech Bubble Next Button";
+
+/* Class = "IBUIButton"; normalTitle = "NEXT"; ObjectID = "xlc-eS-b84"; */
+"xlc-eS-b84.normalTitle" = "WEITER";
+
+/* Class = "IBUIView"; accessibilityLabel = "Store Overlay Tutorial Cash Speech Bubble"; ObjectID = "y2j-Vy-wdf"; */
+"y2j-Vy-wdf.accessibilityLabel" = "Store Overlay Tutorial Cash Speech Bubble";
+

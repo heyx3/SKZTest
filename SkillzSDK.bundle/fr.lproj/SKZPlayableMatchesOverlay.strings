@@ -1,0 +1,12 @@
+/* Class = "IBUIView"; accessibilityLabel = "Playable Matches Overlay"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Aperçu Matches jouables";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Enter Promo Button"; ObjectID = "Egi-5g-98s"; */
+"Egi-5g-98s.accessibilityLabel" = "Bouton Saisir codes promotionnels";
+
+/* Class = "IBUIButton"; normalTitle = "ENTER MATCH CODE"; ObjectID = "Egi-5g-98s"; */
+"Egi-5g-98s.normalTitle" = "ENTRER LE CODE MATCH";
+
+/* Class = "IBUILabel"; text = "ENTER MATCH CODE:"; ObjectID = "ehy-GM-X8M"; */
+"ehy-GM-X8M.text" = "ENTRER LE CODE MATCH :";
+

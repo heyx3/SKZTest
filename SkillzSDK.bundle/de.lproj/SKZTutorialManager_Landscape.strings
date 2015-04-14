@@ -1,0 +1,57 @@
+/* Class = "IBUILabel"; text = "Use Z to play practice matches"; ObjectID = "5R5-md-34l"; */
+"5R5-md-34l.text" = "Verwende Z zum Spielen von Übungs-Matches";
+
+/* Class = "IBUILabel"; text = "Use cash to play for real money"; ObjectID = "7Vm-bj-5B5"; */
+"7Vm-bj-5B5.text" = "Verwende Cash zum Spielen um echtes Geld";
+
+/* (No Commment) */
+"Class" = "IBUILabel";
+
+/* Class = "IBUIButton"; normalTitle = "GAMES"; ObjectID = "FDe-cZ-ez1"; */
+"FDe-cZ-ez1.normalTitle" = "SPIELE";
+
+/* Class = "IBUILabel"; text = "Visit the store to add cash or earn more Z"; ObjectID = "IC6-ER-Tuv"; */
+"IC6-ER-Tuv.text" = "Besuche den Shop, um Cash hinzuzufügen oder mehr Z zu erwerben";
+
+/* Class = "IBUILabel"; text = "Play to win weekly prizes!"; ObjectID = "JjH-Rz-hHf"; */
+"JjH-Rz-hHf.text" = "Spiele und gewinne wöchentliche Preise!";
+
+/* Class = "IBUILabel"; text = "Out of Cash or       ?"; ObjectID = "Khk-pT-Zh6"; */
+"Khk-pT-Zh6.text" = "Kein Cash mehr oder       ?";
+
+/* Class = "IBUILabel"; text = "This tutorial will quickly get you up and running on the Skillz Tournament system"; ObjectID = "Lx1-yD-A3T"; */
+"Lx1-yD-A3T.text" = "Dieses Tutorial macht dich schnell startklar für das Skillz-Turniersystem";
+
+/* Class = "IBUILabel"; text = "Tap Games to select a match"; ObjectID = "Q6l-Tj-FmH"; */
+"Q6l-Tj-FmH.text" = "Auf SPIELE tippen u. Match wählen";
+
+/* Class = "IBUIButton"; normalTitle = "SKILLZ STORE"; ObjectID = "Rai-XR-n9r"; */
+"Rai-XR-n9r.normalTitle" = "SKILLZ-LADEN";
+
+/* Class = "IBUILabel"; text = "SKILLZ CURRENCIES"; ObjectID = "XTa-4n-3O3"; */
+"XTa-4n-3O3.text" = "SKILLZ-WÄHRUNGEN";
+
+/* Class = "IBUIButton"; normalTitle = "FRIENDS"; ObjectID = "bJv-IS-uva"; */
+"bJv-IS-uva.normalTitle" = "FREUNDE";
+
+/* Class = "IBUILabel"; text = "READY TO WIN?"; ObjectID = "dIm-rh-W3t"; */
+"dIm-rh-W3t.text" = "BEREIT ZU GEWINNEN?";
+
+/* Class = "IBUILabel"; text = "WELCOME TO SKILLZ!"; ObjectID = "dvu-98-5am"; */
+"dvu-98-5am.text" = "WILLKOMMEN BEI SKILLZ!";
+
+/* Class = "IBUILabel"; text = "Play 5 matches to unlock leagues and see your ranking."; ObjectID = "fhZ-YQ-1x4"; */
+"fhZ-YQ-1x4.text" = "Spiele 5 Matches, um Ligen freizuschalten und deinen Rang zu sehen.";
+
+/* Class = "IBUILabel"; text = "Redeem Ticketz™ for prizes."; ObjectID = "nPV-f6-wuU"; */
+"nPV-f6-wuU.text" = "Löse Ticketz™ gegen Preise ein.";
+
+/* Class = "IBUILabel"; text = "LEAGUES"; ObjectID = "p3N-nE-pgR"; */
+"p3N-nE-pgR.text" = "LIGEN";
+
+/* Class = "IBUIButton"; normalTitle = "RANKINGS"; ObjectID = "qtg-u3-BW3"; */
+"qtg-u3-BW3.normalTitle" = "RANGLISTEN";
+
+/* Class = "IBUILabel"; text = "Invite friends to play and get special offers for both of you!"; ObjectID = "u6n-ct-Nfc"; */
+"u6n-ct-Nfc.text" = "Lade Freunde ein! Wir halten für euch spezielle Angebote bereit!";
+

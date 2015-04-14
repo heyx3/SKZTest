@@ -1,0 +1,45 @@
+/* Class = "IBUIView"; accessibilityLabel = "Store Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "商店屏";
+
+/* Class = "IBUILabel"; text = "PROMO BONUS:"; ObjectID = "VzZ-cd-KbK"; */
+"VzZ-cd-KbK.text" = "促销额外奖励：";
+
+/* Class = "IBUILabel"; text = "ENTER PROMO CODE:"; ObjectID = "BoD-00-wo5"; */
+"BoD-00-wo5.text" = "请输入促销码：";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Enter Promo Button"; ObjectID = "Dsf-Yx-QYt"; */
+"Dsf-Yx-QYt.accessibilityLabel" = "输入促销按钮";
+
+/* Class = "IBUIButton"; normalTitle = "TICKETZ"; ObjectID = "Dsf-Yx-QYt"; */
+"Dsf-Yx-QYt.normalTitle" = "TICKETZ";
+
+/* Class = "IBUILabel"; text = "GET BACK IN THE GAME"; ObjectID = "O7p-qh-bm0"; */
+"O7p-qh-bm0.text" = "返回游戏";
+
+/* Class = "IBUILabel"; text = "200"; ObjectID = "QZG-pC-hoc"; */
+"QZG-pC-hoc.text" = "200";
+
+/* Class = "IBUILabel"; text = "$0.00"; ObjectID = "VSt-cW-LCn"; */
+"VSt-cW-LCn.text" = "$0.00";
+
+/* Class = "IBUILabel"; text = "UP TO"; ObjectID = "faq-B7-GxH"; */
+"faq-B7-GxH.text" = "最高可达";
+
+/* Class = "IBUIButton"; accessibilityLabel = "DepositButton"; ObjectID = "qHC-3T-wE5"; */
+"qHC-3T-wE5.accessibilityLabel" = "存款按钮";
+
+/* Class = "IBUIButton"; normalTitle = "ADD MORE CASH"; ObjectID = "qHC-3T-wE5"; */
+"qHC-3T-wE5.normalTitle" = "充值";
+
+/* Class = "IBUILabel"; text = "BONUS"; ObjectID = "sJN-uB-XEI"; */
+"sJN-uB-XEI.text" = "额外奖励";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Enter Promo Button"; ObjectID = "uaJ-iZ-a8u"; */
+"uaJ-iZ-a8u.accessibilityLabel" = "输入促销按钮";
+
+/* Class = "IBUIButton"; normalTitle = "PROMO CODE"; ObjectID = "uaJ-iZ-a8u"; */
+"uaJ-iZ-a8u.normalTitle" = "促销码";
+
+/* Class = "IBUIButton"; normalTitle = "EARN MORE"; ObjectID = "vUu-p2-bMe"; */
+"vUu-p2-bMe.normalTitle" = "赢取更多";
+

@@ -1,0 +1,12 @@
+/* Class = "IBUILabel"; text = "START A NEW MATCH"; ObjectID = "3Tg-Px-bbt"; */
+"3Tg-Px-bbt.text" = "开始一场新比赛";
+
+/* Class = "IBUILabel"; text = "with         TastyBarbarian"; ObjectID = "6kj-Kg-7C0"; */
+"6kj-Kg-7C0.text" = "和         美味的野蛮人";
+
+/* Class = "IBUILabel"; text = "CO-OP"; ObjectID = "50S-Ag-zVX"; */
+"50S-Ag-zVX.text" = "合作";
+
+/* Class = "IBUISearchBar"; placeholder = "Search Events"; ObjectID = "edu-Sh-G4B"; */
+"edu-Sh-G4B.placeholder" = "搜索活动";
+

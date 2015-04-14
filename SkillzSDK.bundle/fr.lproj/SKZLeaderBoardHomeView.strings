@@ -1,0 +1,30 @@
+/* Class = "IBUILabel"; text = "bacon"; ObjectID = "0Xm-Ea-I7q"; */
+"0Xm-Ea-I7q.text" = "bacon";
+
+/* Class = "IBUIView"; accessibilityLabel = "Leaderboard Home Overlay"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Aperçu Accueil Meilleurs scores";
+
+/* Class = "IBUILabel"; text = "8 hr 12 min"; ObjectID = "2UD-6T-Jd2"; */
+"2UD-6T-Jd2.text" = "8 h 12 min";
+
+/* Class = "IBUILabel"; text = "ENDS IN"; ObjectID = "6bl-Mf-4up"; */
+"6bl-Mf-4up.text" = "SE TERMINE DANS";
+
+/* Class = "IBUILabel"; text = "bacon"; ObjectID = "OTd-Rh-GXh"; */
+"OTd-Rh-GXh.text" = "bacon";
+
+/* Class = "IBUILabel"; text = "PRACTICE LEAGUE"; ObjectID = "T5Z-PW-ZJ3"; */
+"T5Z-PW-ZJ3.text" = "LIGUE ENTRAINEMENT";
+
+/* Class = "IBUILabel"; text = "MORE"; ObjectID = "ehd-Lq-696"; */
+"ehd-Lq-696.text" = "PLUS";
+
+/* Class = "IBUILabel"; text = "PRO LEAGUE"; ObjectID = "uDM-24-4Y6"; */
+"uDM-24-4Y6.text" = "LIGUE PRO";
+
+/* Class = "IBUILabel"; text = "bacon"; ObjectID = "ucY-ak-Kdg"; */
+"ucY-ak-Kdg.text" = "bacon";
+
+/* Class = "IBUILabel"; text = "Win Cash to Rank"; ObjectID = "unM-7c-Vob"; */
+"unM-7c-Vob.text" = "Gagnez de l'argent pour vous classer";
+

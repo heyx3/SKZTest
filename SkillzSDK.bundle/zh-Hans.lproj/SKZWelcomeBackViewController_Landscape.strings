@@ -1,0 +1,9 @@
+/* Class = "IBUILabel"; text = "YOU WON!"; ObjectID = "3wc-x4-ihl"; */
+"3wc-x4-ihl.text" = "你赢了！";
+
+/* Class = "IBUIButton"; normalTitle = "NEXT"; ObjectID = "5Gg-q4-Fvh"; */
+"5Gg-q4-Fvh.normalTitle" = "下一个";
+
+/* Class = "IBUILabel"; text = "WELCOME BACK"; ObjectID = "OWd-hG-7Us"; */
+"OWd-hG-7Us.text" = "欢迎回来";
+

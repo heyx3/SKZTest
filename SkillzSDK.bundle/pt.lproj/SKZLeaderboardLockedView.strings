@@ -1,0 +1,6 @@
+/* Class = "IBUIView"; accessibilityLabel = "Leaderboards Locked"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Placares bloqueados";
+
+/* Class = "IBUILabel"; text = "Leaderboards are unavailable at this time.  Try again soon."; ObjectID = "PV1-sf-YmO"; */
+"PV1-sf-YmO.text" = "Os placares não estão disponíveis no momento.  Tente novamente mais tarde.";
+

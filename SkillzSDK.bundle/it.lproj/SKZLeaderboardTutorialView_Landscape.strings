@@ -1,0 +1,27 @@
+/* Class = "IBUILabel"; text = "Above you can see:\n• if you're in the pro or practice league\n• days left until the leaderboard ends"; ObjectID = "FVK-e2-7Ng"; */
+"FVK-e2-7Ng.text" = "Qui sopra puoi controllare:\n• se competi nel campionato di allenamento o in quello per professionisti\n• i giorni che mancano alla conclusione del campionato";
+
+/* Class = "IBUIButton"; normalTitle = "Start Playing"; ObjectID = "N2y-TW-XjR"; */
+"N2y-TW-XjR.normalTitle" = "Inizia a giocare";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Leaderboard Next"; ObjectID = "hVG-BB-sSt"; */
+"hVG-BB-sSt.accessibilityLabel" = "Leaderboard Next";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "hVG-BB-sSt"; */
+"hVG-BB-sSt.normalTitle" = "Succ.";
+
+/* Class = "IBUILabel"; text = "Above you can see:\n• if you're in the pro or practice league\n• days left until prizes are given out\n• prizes you can win"; ObjectID = "iDo-By-NHg"; */
+"iDo-By-NHg.text" = "Qui sopra puoi controllare:\n• se competi nel campionato di allenamento o in\n quello per professionisti\n• i giorni che mancano alla distribuzione dei premi\n• i premi che puoi vincere";
+
+/* Class = "IBUIView"; accessibilityLabel = "Leaderboards Unlocked"; ObjectID = "nom-vv-2gX"; */
+"nom-vv-2gX.accessibilityLabel" = "Leaderboards Unlocked";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Skip Button"; ObjectID = "nqu-WQ-xaS"; */
+"nqu-WQ-xaS.accessibilityLabel" = "Skip Button";
+
+/* Class = "IBUIButton"; normalTitle = "Skip"; ObjectID = "nqu-WQ-xaS"; */
+"nqu-WQ-xaS.normalTitle" = "Salta";
+
+/* Class = "IBUILabel"; text = "On the right are the rankings for each player. \n\nYou will be highlighted in blue."; ObjectID = "wOf-Yx-3VS"; */
+"wOf-Yx-3VS.text" = "Sulla destra trovi le classifiche relative ai vari giocatori. \nIl tuo nome sarà evidenziato in blu.";
+

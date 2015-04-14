@@ -1,0 +1,12 @@
+/* Class = "IBUIView"; accessibilityLabel = "Profile Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Profile Screen";
+
+/* Class = "IBUIButton"; normalTitle = "ADD FRIEND"; ObjectID = "2uc-2z-WdR"; */
+"2uc-2z-WdR.normalTitle" = "AGGIUNGI UN AMICO";
+
+/* Class = "IBUIButton"; normalTitle = "REMOVE FRIEND"; ObjectID = "Ens-Ep-wYH"; */
+"Ens-Ep-wYH.normalTitle" = "RIMUOVI AMICO";
+
+/* Class = "IBUIButton"; accessibilityLabel = "ShoutOutButton"; ObjectID = "imo-9N-VaA"; */
+"imo-9N-VaA.accessibilityLabel" = "ShoutOutButton";
+

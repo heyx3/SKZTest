@@ -1,0 +1,27 @@
+/* Class = "IBUIView"; accessibilityLabel = "Home Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Écran d'accueil";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Play Match Tab"; ObjectID = "HZz-RP-gWP"; */
+"HZz-RP-gWP.accessibilityLabel" = "Onglet jouer match";
+
+/* Class = "IBUIButton"; normalTitle = "GAMES"; ObjectID = "HZz-RP-gWP"; */
+"HZz-RP-gWP.normalTitle" = "JEUX";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Invite Button"; ObjectID = "KBU-dt-gv0"; */
+"KBU-dt-gv0.accessibilityLabel" = "Bouton invitation";
+
+/* Class = "IBUIButton"; normalTitle = "FRIENDS"; ObjectID = "KBU-dt-gv0"; */
+"KBU-dt-gv0.normalTitle" = "AMIS";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Store Tab"; ObjectID = "QQY-Hk-q0y"; */
+"QQY-Hk-q0y.accessibilityLabel" = "Onglet boutique";
+
+/* Class = "IBUIButton"; normalTitle = "SKILLZ STORE"; ObjectID = "QQY-Hk-q0y"; */
+"QQY-Hk-q0y.normalTitle" = "BOUTIQUE SKILLZ";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Rankings Tab"; ObjectID = "mpA-yB-fs4"; */
+"mpA-yB-fs4.accessibilityLabel" = "Onglet classements";
+
+/* Class = "IBUIButton"; normalTitle = "RANKINGS"; ObjectID = "mpA-yB-fs4"; */
+"mpA-yB-fs4.normalTitle" = "CLASSEMENT";
+

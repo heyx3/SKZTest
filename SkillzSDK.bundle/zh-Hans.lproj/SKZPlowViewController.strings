@@ -1,0 +1,33 @@
+/* Class = "IBUILabel"; text = "$999"; ObjectID = "CcO-TU-WAj"; */
+"CcO-TU-WAj.text" = "$999.00";
+
+/* Class = "IBUIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "L4R-kl-8Ts"; */
+"L4R-kl-8Ts.accessibilityLabel" = "开辟下一个";
+
+/* Class = "IBUIButton"; normalTitle = "PLAY AGAIN"; ObjectID = "L4R-kl-8Ts"; */
+"L4R-kl-8Ts.normalTitle" = "再玩一次";
+
+/* Class = "IBUIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "dQr-Te-Nt0"; */
+"dQr-Te-Nt0.accessibilityLabel" = "开辟下一个";
+
+/* Class = "IBUIButton"; normalTitle = "SHARE"; ObjectID = "dQr-Te-Nt0"; */
+"dQr-Te-Nt0.normalTitle" = "分享";
+
+/* Class = "IBUIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "ecJ-BI-cK7"; */
+"ecJ-BI-cK7.accessibilityLabel" = "开辟下一个";
+
+/* Class = "IBUIButton"; normalTitle = "NEXT"; ObjectID = "ecJ-BI-cK7"; */
+"ecJ-BI-cK7.normalTitle" = "下一个";
+
+/* Class = "IBUILabel"; text = "THE WINNER WILL GET"; ObjectID = "hIJ-7e-sb9"; */
+"hIJ-7e-sb9.text" = "赢家将获得";
+
+/* Class = "IBUILabel"; text = "400"; ObjectID = "hZv-9y-WoC"; */
+"hZv-9y-WoC.text" = "400";
+
+/* Class = "IBUILabel"; text = "YOU PLACED"; ObjectID = "oGj-Ms-jwf"; */
+"oGj-Ms-jwf.text" = "你排在了";
+
+/* Class = "IBUILabel"; text = "400"; ObjectID = "ygh-bm-euu"; */
+"ygh-bm-euu.text" = "400";
+

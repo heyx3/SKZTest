@@ -1,0 +1,60 @@
+/* Class = "IBUIButton"; normalTitle = "Country"; ObjectID = "7Yf-Or-SCd"; */
+"7Yf-Or-SCd.normalTitle" = "カントリー";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Zip Field"; ObjectID = "9rr-BU-P3Z"; */
+"9rr-BU-P3Z.accessibilityLabel" = "郵便番号フィールド";
+
+/* Class = "IBUITextField"; placeholder = "State/Province"; ObjectID = "9rr-BU-P3Z"; */
+"9rr-BU-P3Z.placeholder" = "州/郡";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Last Name Field"; ObjectID = "ApV-8E-zJc"; */
+"ApV-8E-zJc.accessibilityLabel" = "姓フィールド";
+
+/* Class = "IBUITextField"; placeholder = "Last Name"; ObjectID = "ApV-8E-zJc"; */
+"ApV-8E-zJc.placeholder" = "姓";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Zip Field"; ObjectID = "BnM-RV-2f0"; */
+"BnM-RV-2f0.accessibilityLabel" = "郵便番号フィールド";
+
+/* Class = "IBUITextField"; placeholder = "City"; ObjectID = "BnM-RV-2f0"; */
+"BnM-RV-2f0.placeholder" = "都市";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Update Button"; ObjectID = "D1L-H2-gTV"; */
+"D1L-H2-gTV.accessibilityLabel" = "更新ボタン";
+
+/* Class = "IBUIButton"; normalTitle = "UPDATE"; ObjectID = "D1L-H2-gTV"; */
+"D1L-H2-gTV.normalTitle" = "更新";
+
+/* Class = "IBUILabel"; text = "Withdraw Information"; ObjectID = "EyO-rC-6aK"; */
+"EyO-rC-6aK.text" = "引き出し情報";
+
+/* Class = "IBUITextField"; accessibilityLabel = "First Name Field"; ObjectID = "KVR-Ga-YjV"; */
+"KVR-Ga-YjV.accessibilityLabel" = "名前フィールド";
+
+/* Class = "IBUITextField"; placeholder = "First Name"; ObjectID = "KVR-Ga-YjV"; */
+"KVR-Ga-YjV.placeholder" = "名前";
+
+/* Class = "IBUILabel"; text = "Personal Information"; ObjectID = "LBi-aI-Ivk"; */
+"LBi-aI-Ivk.text" = "個人情報";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Email Field"; ObjectID = "TdC-lR-FLp"; */
+"TdC-lR-FLp.accessibilityLabel" = "Eメールフィールド";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "TdC-lR-FLp"; */
+"TdC-lR-FLp.placeholder" = "Eメール";
+
+/* Class = "IBUIButton"; normalTitle = "Done"; ObjectID = "fkh-6U-zG2"; */
+"fkh-6U-zG2.normalTitle" = "完了";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Zip Field"; ObjectID = "uUO-AY-etD"; */
+"uUO-AY-etD.accessibilityLabel" = "郵便番号フィールド";
+
+/* Class = "IBUITextField"; placeholder = "Postal Code"; ObjectID = "uUO-AY-etD"; */
+"uUO-AY-etD.placeholder" = "郵便番号";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Address Field"; ObjectID = "zxC-n0-WhI"; */
+"zxC-n0-WhI.accessibilityLabel" = "住所フィールド";
+
+/* Class = "IBUITextField"; placeholder = "Street Address"; ObjectID = "zxC-n0-WhI"; */
+"zxC-n0-WhI.placeholder" = "住所";
+

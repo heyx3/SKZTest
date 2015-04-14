@@ -1,0 +1,18 @@
+/* Class = "IBUILabel"; text = "PLAY FOR CASH"; ObjectID = "EXJ-RA-GXT"; */
+"EXJ-RA-GXT.text" = "GIOCA IN CONTANTI";
+
+/* Class = "IBUIButton"; normalTitle = "SUBMIT"; ObjectID = "IfC-2y-e1p"; */
+"IfC-2y-e1p.normalTitle" = "INVIA";
+
+/* Class = "IBUILabel"; text = "I agree to the Terms of Service"; ObjectID = "LPe-Xw-VnX"; */
+"LPe-Xw-VnX.text" = "Accetto i termini di servizio";
+
+/* Class = "IBUIButton"; normalTitle = "MM/DD/YYYY"; ObjectID = "mgf-kn-1VL"; */
+"mgf-kn-1VL.normalTitle" = "GG/MM/AAAA";
+
+/* Class = "IBUILabel"; text = "Enter Your Birthday to Play for Cash"; ObjectID = "pxa-JG-A05"; */
+"pxa-JG-A05.text" = "Inserisci la tua data di nascita per disputare partite con puntate in contanti";
+
+/* Class = "IBUILabel"; text = "GO PRO!"; ObjectID = "xBo-JM-nie"; */
+"xBo-JM-nie.text" = "COMPETI CON I PROFESSIONISTI!";
+

@@ -1,0 +1,33 @@
+/* Class = "IBUIButton"; accessibilityLabel = "Leaderboard Tutorial Skip Button"; ObjectID = "2Le-hL-b1y"; */
+"2Le-hL-b1y.accessibilityLabel" = "Bouton Ignorer Didacticiel Meilleurs scores";
+
+/* Class = "IBUIButton"; normalTitle = "Skip"; ObjectID = "2Le-hL-b1y"; */
+"2Le-hL-b1y.normalTitle" = "Passer";
+
+/* Class = "IBUILabel"; text = "Above you can see:\n• if you're in the pro or practice league\n• days left until prizes are given out\n• prizes you can win"; ObjectID = "MLh-uZ-Gwj"; */
+"MLh-uZ-Gwj.text" = "Ci-dessus, vous pouvez voir :\n• Si vous êtes en ligue entrainement ou pro\n• les jours restants avant la remise des prix\n• Les prix que vous pouvez gagner";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Leaderboard Tutorial Next Button"; ObjectID = "ZVP-6u-Ubt"; */
+"ZVP-6u-Ubt.accessibilityLabel" = "Bouton Suivant Didacticiel Meilleurs scores";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "ZVP-6u-Ubt"; */
+"ZVP-6u-Ubt.normalTitle" = "Suivant";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Leaderboard Tutorial Start Playing Button"; ObjectID = "dL1-Px-uet"; */
+"dL1-Px-uet.accessibilityLabel" = "Bouton Commencer à jouer Meilleurs scores";
+
+/* Class = "IBUIButton"; normalTitle = "Start Playing"; ObjectID = "dL1-Px-uet"; */
+"dL1-Px-uet.normalTitle" = "Commencer à jouer";
+
+/* Class = "IBUIView"; accessibilityLabel = "Leaderboard Tutorial"; ObjectID = "h2H-0p-dS5"; */
+"h2H-0p-dS5.accessibilityLabel" = "Didacticiel des meilleurs scores";
+
+/* Class = "IBUILabel"; accessibilityLabel = "Leaderboard Tutorial Player Ranking Text"; ObjectID = "whC-N9-dIZ"; */
+"whC-N9-dIZ.accessibilityLabel" = "Texte Classement du joueur Didacticiel Meilleurs scores";
+
+/* Class = "IBUILabel"; text = "Below are the rankings for each player. \nYou will be highlighted in blue."; ObjectID = "whC-N9-dIZ"; */
+"whC-N9-dIZ.text" = "Ci-dessous se trouvent le classement de chaque joueur. \nVous apparaissez en bleu.";
+
+/* Class = "IBUILabel"; text = "Above you can see:\n• if you're in the pro or practice league\n• days left until the leaderboard ends"; ObjectID = "xjN-pC-Iey"; */
+"xjN-pC-Iey.text" = "Ci-dessus, vous pouvez voir :\n• Si vous êtes en ligue entrainement ou pro\n• Les jours restants avant expiration des meilleurs scores";
+

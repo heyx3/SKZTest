@@ -1,0 +1,9 @@
+/* Class = "IBUISearchBar"; placeholder = "Search Friends"; ObjectID = "q7F-nf-Clz"; */
+"q7F-nf-Clz.placeholder" = "Cerca amici";
+
+/* Class = "IBUISearchBar"; q7F-nf-Clz.scopeButtonTitles[0] = "Title"; ObjectID = "q7F-nf-Clz"; */
+"q7F-nf-Clz.scopeButtonTitles[0]" = "Titolo";
+
+/* Class = "IBUISearchBar"; q7F-nf-Clz.scopeButtonTitles[1] = "Title"; ObjectID = "q7F-nf-Clz"; */
+"q7F-nf-Clz.scopeButtonTitles[1]" = "Titolo";
+

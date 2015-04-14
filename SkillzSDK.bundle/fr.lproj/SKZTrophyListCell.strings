@@ -1,0 +1,12 @@
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "EHD-cV-xyI"; */
+"EHD-cV-xyI.text" = "Libellé";
+
+/* Class = "IBUILabel"; text = "You Earned"; ObjectID = "Qkz-Uo-vyg"; */
+"Qkz-Uo-vyg.text" = "Vous avez gagné";
+
+/* Class = "IBUILabel"; text = "REWARD"; ObjectID = "jYC-At-1a4"; */
+"jYC-At-1a4.text" = "RÉCOMPENSE";
+
+/* Class = "IBUITextView"; text = "text"; ObjectID = "z4g-Ih-A2L"; */
+"z4g-Ih-A2L.text" = "texte";
+

@@ -1,0 +1,12 @@
+/* Class = "IBUIButton"; normalTitle = "NO"; ObjectID = "Hy8-fX-vAp"; */
+"Hy8-fX-vAp.normalTitle" = "NEIN";
+
+/* Class = "IBUILabel"; text = "Do you want to play a new match with the same stakes?"; ObjectID = "axW-CQ-qCK"; */
+"axW-CQ-qCK.text" = "Möchtest du mit den gleichen Teilnehmern eines neues Match spielen?";
+
+/* Class = "IBUILabel"; text = "Don't show this again"; ObjectID = "lNQ-VS-3AV"; */
+"lNQ-VS-3AV.text" = "Nicht mehr anzeigen";
+
+/* Class = "IBUIButton"; normalTitle = "YES"; ObjectID = "mut-LU-W2k"; */
+"mut-LU-W2k.normalTitle" = "JA";
+

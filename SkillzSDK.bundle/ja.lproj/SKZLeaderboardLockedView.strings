@@ -1,0 +1,6 @@
+/* Class = "IBUIView"; accessibilityLabel = "Leaderboards Locked"; ObjectID = "1"; */
+"1.accessibilityLabel" = "リーダーボードロック";
+
+/* Class = "IBUILabel"; text = "Leaderboards are unavailable at this time.  Try again soon."; ObjectID = "PV1-sf-YmO"; */
+"PV1-sf-YmO.text" = "リーダーボードは、現時点では利用できません。再度お試しください。";
+

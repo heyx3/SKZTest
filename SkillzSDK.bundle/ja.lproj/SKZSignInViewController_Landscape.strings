@@ -1,0 +1,24 @@
+/* Class = "IBUITextField"; accessibilityLabel = "PasswordField"; ObjectID = "2bs-YC-EFf"; */
+"2bs-YC-EFf.accessibilityLabel" = "パスワードフィールド";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "2bs-YC-EFf"; */
+"2bs-YC-EFf.placeholder" = "パスワード";
+
+/* Class = "IBUITextField"; accessibilityLabel = "UserNameField"; ObjectID = "QeH-oD-cAE"; */
+"QeH-oD-cAE.accessibilityLabel" = "ユーザー名フィールド";
+
+/* Class = "IBUITextField"; placeholder = "Username or Email"; ObjectID = "QeH-oD-cAE"; */
+"QeH-oD-cAE.placeholder" = "名前またはメール";
+
+/* Class = "IBUIButton"; accessibilityLabel = "SignInButton"; ObjectID = "dI2-2r-b71"; */
+"dI2-2r-b71.accessibilityLabel" = "サインインボタン";
+
+/* Class = "IBUIButton"; normalTitle = "SIGN IN"; ObjectID = "dI2-2r-b71"; */
+"dI2-2r-b71.normalTitle" = "サインイン";
+
+/* Class = "IBUIButton"; normalTitle = "Forgot Username/Password"; ObjectID = "ff9-fl-c9N"; */
+"ff9-fl-c9N.normalTitle" = "ユーザー名/パスワードを忘れた場合";
+
+/* Class = "IBUILabel"; text = "Welcome back. Sign in to Skillz"; ObjectID = "oT2-Ae-QDq"; */
+"oT2-Ae-QDq.text" = "お帰りなさい。Skillzにログイン";
+

@@ -1,0 +1,12 @@
+/* Class = "IBUIButton"; normalTitle = "CANCEL"; ObjectID = "4ef-10-pUh"; */
+"4ef-10-pUh.normalTitle" = "CANCELAR";
+
+/* Class = "IBUILabel"; text = "ARE YOU READY TO TEST YOUR SKILLZ?"; ObjectID = "98a-uS-ws0"; */
+"98a-uS-ws0.text" = "ESTÁ PRONTO PARA TESTAR SUAS SKILLZ?";
+
+/* Class = "IBUIButton"; normalTitle = "PLAY"; ObjectID = "iYX-HB-lZL"; */
+"iYX-HB-lZL.normalTitle" = "JOGAR";
+
+/* Class = "IBUILabel"; text = "LOGGED OUT"; ObjectID = "j9y-yL-rqi"; */
+"j9y-yL-rqi.text" = "DESCONECTADO";
+

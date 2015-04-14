@@ -1,0 +1,18 @@
+/* Class = "IBUILabel"; text = "Score:"; ObjectID = "DL4-FU-dQN"; */
+"DL4-FU-dQN.text" = "Punteggio:";
+
+/* Class = "IBUILabel"; text = "Please show this screen to the event moderator to claim your prize."; ObjectID = "XnV-GB-SGB"; */
+"XnV-GB-SGB.text" = "Mostra questa schermata al moderatore dell'evento per riscuotere il tuo premio.";
+
+/* Class = "IBUILabel"; text = "Event ID"; ObjectID = "aaS-SY-gUl"; */
+"aaS-SY-gUl.text" = "ID evento";
+
+/* Class = "IBUILabel"; text = "Withdraw Code"; ObjectID = "jTs-9f-htl"; */
+"jTs-9f-htl.text" = "Codice prelievo";
+
+/* Class = "IBUILabel"; text = "Confirmation Number"; ObjectID = "tEa-fV-KyG"; */
+"tEa-fV-KyG.text" = "Numero di conferma";
+
+/* Class = "IBUILabel"; text = "Match ID"; ObjectID = "vEj-SP-X2e"; */
+"vEj-SP-X2e.text" = "ID partita";
+

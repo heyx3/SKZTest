@@ -1,0 +1,12 @@
+/* Class = "IBUIButton"; normalTitle = "CANCEL"; ObjectID = "4ef-10-pUh"; */
+"4ef-10-pUh.normalTitle" = "取消按钮";
+
+/* Class = "IBUILabel"; text = "ARE YOU READY TO TEST YOUR SKILLZ?"; ObjectID = "98a-uS-ws0"; */
+"98a-uS-ws0.text" = "你做好测试你的 SKILLZ 的准备了吗？";
+
+/* Class = "IBUIButton"; normalTitle = "PLAY"; ObjectID = "iYX-HB-lZL"; */
+"iYX-HB-lZL.normalTitle" = "开始游戏";
+
+/* Class = "IBUILabel"; text = "LOGGED OUT"; ObjectID = "j9y-yL-rqi"; */
+"j9y-yL-rqi.text" = "已登出";
+

@@ -1,0 +1,36 @@
+/* Class = "IBUILabel"; text = "3"; ObjectID = "0WR-ab-dtd"; */
+"0WR-ab-dtd.text" = "3";
+
+/* Class = "IBUILabel"; text = "WIN STREAK"; ObjectID = "1d8-bb-9iB"; */
+"1d8-bb-9iB.text" = "RACHA DE VICTORIA";
+
+/* Class = "IBUILabel"; text = "MATCHES WON"; ObjectID = "7WP-ao-Od3"; */
+"7WP-ao-Od3.text" = "PARTIDAS GANADAS";
+
+/* Class = "IBUILabel"; text = "WINS/WIN STREAK"; ObjectID = "Hk1-EG-1Ig"; */
+"Hk1-EG-1Ig.text" = "RACHA DE VICTORIA/VICTORIAS";
+
+/* Class = "IBUIButton"; normalTitle = "VIEW LEAGUES"; ObjectID = "Ty6-Ym-MYY"; */
+"Ty6-Ym-MYY.normalTitle" = "VER LIGAS";
+
+/* Class = "IBUIButton"; normalTitle = "VS YOU"; ObjectID = "VC2-35-bg8"; */
+"VC2-35-bg8.normalTitle" = "CONTRA TI";
+
+/* Class = "IBUIButton"; normalTitle = "VIEW TROPHIES"; ObjectID = "ZQC-13-WdQ"; */
+"ZQC-13-WdQ.normalTitle" = "VER TROFEOS";
+
+/* Class = "IBUILabel"; text = "YOUR RANK"; ObjectID = "ek8-nM-MCO"; */
+"ek8-nM-MCO.text" = "TU CLASIFICACIÓN";
+
+/* Class = "IBUILabel"; text = "TROPHIES EARNED"; ObjectID = "lCe-B5-HNA"; */
+"lCe-B5-HNA.text" = "TROFEOS GANADOS";
+
+/* Class = "IBUILabel"; text = "No Trophies Earned"; ObjectID = "q3e-ZN-1Yp"; */
+"q3e-ZN-1Yp.text" = "No se han ganado trofeos";
+
+/* Class = "IBUILabel"; text = "20/60"; ObjectID = "wT9-Fw-49g"; */
+"wT9-Fw-49g.text" = "20/60";
+
+/* Class = "IBUILabel"; text = "VS EVERYONE"; ObjectID = "x4M-BR-cNa"; */
+"x4M-BR-cNa.text" = "CONTRA CADA UNO";
+

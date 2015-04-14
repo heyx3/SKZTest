@@ -1,0 +1,30 @@
+/* Class = "IBUILabel"; text = "Log in on any device"; ObjectID = "82v-Gc-tjm"; */
+"82v-Gc-tjm.text" = "Fazer login em qualquer dispositivo";
+
+/* Class = "IBUITextField"; placeholder = "Enter email address"; ObjectID = "CM3-cd-9bo"; */
+"CM3-cd-9bo.placeholder" = "Digite o e-mail";
+
+/* Class = "IBUILabel"; text = "Play other Skillz games"; ObjectID = "KBT-5f-8WT"; */
+"KBT-5f-8WT.text" = "Jogar outros games Skillz";
+
+/* Class = "IBUILabel"; text = "Earn extra rewards"; ObjectID = "Pnu-4s-cDE"; */
+"Pnu-4s-cDE.text" = "Ganhar recompensas extra";
+
+/* Class = "IBUITextField"; placeholder = "Enter password"; ObjectID = "Zc9-ML-POd"; */
+"Zc9-ML-POd.placeholder" = "Digite a senha";
+
+/* Class = "IBUILabel"; text = "Save Your Skillz Account"; ObjectID = "bFh-It-4i9"; */
+"bFh-It-4i9.text" = "Salve sua conta do Skillz";
+
+/* Class = "IBUITextField"; placeholder = "Confirm password"; ObjectID = "i8Q-Vx-7Hs"; */
+"i8Q-Vx-7Hs.placeholder" = "Confirme a senha";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Submit Button"; ObjectID = "iIZ-1e-eI8"; */
+"iIZ-1e-eI8.accessibilityLabel" = "Botão Enviar";
+
+/* Class = "IBUIButton"; normalTitle = "SUBMIT"; ObjectID = "iIZ-1e-eI8"; */
+"iIZ-1e-eI8.normalTitle" = "ENVIAR";
+
+/* Class = "IBUILabel"; text = "Yes, sign me up for news and updates from Skillz"; ObjectID = "tKv-ca-Kyb"; */
+"tKv-ca-Kyb.text" = "Sim, inclua-me para receber notícias e atualizações do Skillz";
+

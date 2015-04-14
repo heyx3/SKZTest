@@ -1,0 +1,21 @@
+/* Class = "IBUIButton"; accessibilityLabel = "SignInButton"; ObjectID = "120"; */
+"120.accessibilityLabel" = "Botón Inicio de sesión";
+
+/* Class = "IBUIButton"; normalTitle = "SIGN IN"; ObjectID = "120"; */
+"120.normalTitle" = "INICIAR SESIÓN";
+
+/* Class = "IBUIButton"; accessibilityLabel = "FTU Next"; ObjectID = "128"; */
+"128.accessibilityLabel" = "Siguiente FTU";
+
+/* Class = "IBUIButton"; normalTitle = "NEXT"; ObjectID = "128"; */
+"128.normalTitle" = "SIGUIENTE";
+
+/* Class = "IBUILabel"; text = "Compete to Win Prizes"; ObjectID = "327"; */
+"327.text" = "Compite para ganar premios";
+
+/* Class = "IBUILabel"; text = "Go Pro or Just Practice"; ObjectID = "328"; */
+"328.text" = "Juega en modo Pro o en modo Practica";
+
+/* Class = "IBUILabel"; text = "Climb the Rankings to Win Weekly Prizes"; ObjectID = "329"; */
+"329.text" = "¡Sube en la clasificación para ganar premios semanales!";
+

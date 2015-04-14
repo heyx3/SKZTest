@@ -1,0 +1,21 @@
+/* Class = "IBUIView"; accessibilityLabel = "Trophies Home Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Tela inicial de troféus";
+
+/* Class = "IBUILabel"; text = "Trophies Earned"; ObjectID = "1hZ-H8-Bmn"; */
+"1hZ-H8-Bmn.text" = "Troféus ganhos";
+
+/* Class = "IBUIButton"; normalTitle = "EARNED"; ObjectID = "JAN-Se-L1m"; */
+"JAN-Se-L1m.normalTitle" = "GANHO";
+
+/* Class = "IBUIButton"; normalTitle = "UNEARNED"; ObjectID = "fOM-bT-1II"; */
+"fOM-bT-1II.normalTitle" = "NÃO GANHO";
+
+/* Class = "IBUILabel"; text = "Tap the present above to claim your trophy and scroll through the list of trophies to see what else you can earn!"; ObjectID = "ruV-UR-OzJ"; */
+"ruV-UR-OzJ.text" = "Toque no presente acima para ganhar seu troféu e role pela lista de troféus para ver o que mais pode ganhar!";
+
+/* Class = "IBUILabel"; text = "TROPHIES"; ObjectID = "yCN-d0-kGQ"; */
+"yCN-d0-kGQ.text" = "TROFÉUS";
+
+/* Class = "IBUILabel"; text = "CONGRATULATIONS!"; ObjectID = "ylK-4H-GYQ"; */
+"ylK-4H-GYQ.text" = "PARABÉNS!";
+

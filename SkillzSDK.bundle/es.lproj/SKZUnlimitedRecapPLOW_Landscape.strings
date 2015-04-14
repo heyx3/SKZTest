@@ -1,0 +1,24 @@
+/* Class = "IBUILabel"; text = "Finalizing Results"; ObjectID = "AaK-5G-eFF"; */
+"AaK-5G-eFF.text" = "Finalizar los resultados";
+
+/* Class = "IBUIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "L4R-kl-8Ts"; */
+"L4R-kl-8Ts.accessibilityLabel" = "PLOW Siguiente";
+
+/* Class = "IBUIButton"; normalTitle = "PLAY AGAIN"; ObjectID = "L4R-kl-8Ts"; */
+"L4R-kl-8Ts.normalTitle" = "VOLVER A JUGAR";
+
+/* Class = "IBUILabel"; text = "Your Score:"; ObjectID = "RLj-dH-ldy"; */
+"RLj-dH-ldy.text" = "Tu puntuación:";
+
+/* Class = "IBUIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "ecJ-BI-cK7"; */
+"ecJ-BI-cK7.accessibilityLabel" = "PLOW Siguiente";
+
+/* Class = "IBUIButton"; normalTitle = "NEXT"; ObjectID = "ecJ-BI-cK7"; */
+"ecJ-BI-cK7.normalTitle" = "SIGUIENTE";
+
+/* Class = "IBUILabel"; text = "Best Score:"; ObjectID = "jmL-g8-l90"; */
+"jmL-g8-l90.text" = "Mejor puntuación:";
+
+/* Class = "IBUILabel"; text = "Last Entry:"; ObjectID = "xCN-El-4Bt"; */
+"xCN-El-4Bt.text" = "Última entrada:";
+

@@ -1,0 +1,36 @@
+/* Class = "IBUIView"; accessibilityLabel = "Leaderboard Detail Overlay"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Détails des meilleurs scores";
+
+/* Class = "IBUILabel"; text = "Amount"; ObjectID = "DoK-pV-Wbn"; */
+"DoK-pV-Wbn.text" = "Montant";
+
+/* Class = "IBUILabel"; text = "SDIJ"; ObjectID = "T9e-9k-YTQ"; */
+"T9e-9k-YTQ.text" = "SDIJ";
+
+/* Class = "IBUILabel"; text = "SDU"; ObjectID = "Xoq-y2-RU4"; */
+"Xoq-y2-RU4.text" = "SDU";
+
+/* Class = "IBUILabel"; text = "Username"; ObjectID = "Yak-zA-A8b"; */
+"Yak-zA-A8b.text" = "Nom d'utilisateur";
+
+/* Class = "IBUILabel"; text = "2000"; ObjectID = "Z29-XQ-Vea"; */
+"Z29-XQ-Vea.text" = "2000";
+
+/* Class = "IBUILabel"; text = "IDHS"; ObjectID = "cTB-Yb-dyc"; */
+"cTB-Yb-dyc.text" = "IDHS";
+
+/* Class = "IBUILabel"; text = "6000"; ObjectID = "cqD-Tx-Nyv"; */
+"cqD-Tx-Nyv.text" = "6000";
+
+/* Class = "IBUILabel"; text = "4000"; ObjectID = "iP4-PB-NId"; */
+"iP4-PB-NId.text" = "4000";
+
+/* Class = "IBUILabel"; text = "Place"; ObjectID = "qLH-cR-yPY"; */
+"qLH-cR-yPY.text" = "Rang";
+
+/* Class = "IBUILabel"; text = "ENDS IN: 5 Days"; ObjectID = "s5S-vJ-A2B"; */
+"s5S-vJ-A2B.text" = "SE TERMINE DANS : 5 Jours";
+
+/* Class = "IBUILabel"; text = "PRO LEAGUE"; ObjectID = "sxg-Op-gj0"; */
+"sxg-Op-gj0.text" = "LIGUE PRO";
+

@@ -1,0 +1,27 @@
+/* Class = "IBUILabel"; text = "Above you can see:\n• if you're in the pro or practice league\n• days left until the leaderboard ends"; ObjectID = "FVK-e2-7Ng"; */
+"FVK-e2-7Ng.text" = "Ci-dessus, vous pouvez voir :\n• Si vous êtes en ligue entrainement ou pro\n• Les jours restants avant expiration des meilleurs scores";
+
+/* Class = "IBUIButton"; normalTitle = "Start Playing"; ObjectID = "N2y-TW-XjR"; */
+"N2y-TW-XjR.normalTitle" = "Commencer à jouer";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Leaderboard Next"; ObjectID = "hVG-BB-sSt"; */
+"hVG-BB-sSt.accessibilityLabel" = "Meilleurs scores suivants";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "hVG-BB-sSt"; */
+"hVG-BB-sSt.normalTitle" = "Suivant";
+
+/* Class = "IBUILabel"; text = "Above you can see:\n• if you're in the pro or practice league\n• days left until prizes are given out\n• prizes you can win"; ObjectID = "iDo-By-NHg"; */
+"iDo-By-NHg.text" = "Ci-dessus, vous pouvez voir :\n• Si vous êtes en ligue entrainement ou pro\n• les jours restants avant la remise des prix\n• Les prix que vous pouvez gagner";
+
+/* Class = "IBUIView"; accessibilityLabel = "Leaderboards Unlocked"; ObjectID = "nom-vv-2gX"; */
+"nom-vv-2gX.accessibilityLabel" = "Meilleurs scores déverrouillés";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Skip Button"; ObjectID = "nqu-WQ-xaS"; */
+"nqu-WQ-xaS.accessibilityLabel" = "Bouton passer";
+
+/* Class = "IBUIButton"; normalTitle = "Skip"; ObjectID = "nqu-WQ-xaS"; */
+"nqu-WQ-xaS.normalTitle" = "Passer";
+
+/* Class = "IBUILabel"; text = "On the right are the rankings for each player. \n\nYou will be highlighted in blue."; ObjectID = "wOf-Yx-3VS"; */
+"wOf-Yx-3VS.text" = "Sur la droite se trouve le classement de chaque joueur. \n\nVous apparaissez en bleu.";
+

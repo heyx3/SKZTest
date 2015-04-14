@@ -1,0 +1,6 @@
+/* Class = "IBUIView"; accessibilityLabel = "Leaderboards Locked"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Leaderboards Locked";
+
+/* Class = "IBUILabel"; text = "Leaderboards are unavailable at this time.  Try again soon."; ObjectID = "PV1-sf-YmO"; */
+"PV1-sf-YmO.text" = "Derzeit sind keine Bestenlisten verfügbar.  Versuch es später noch einmal.";
+

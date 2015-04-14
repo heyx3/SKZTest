@@ -1,0 +1,33 @@
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "5bk-Vx-GIX"; */
+"5bk-Vx-GIX.text" = "Метка";
+
+/* Class = "IBUILabel"; text = "MATCH REPLAY"; ObjectID = "29t-h7-3zc"; */
+"29t-h7-3zc.text" = "ВОСПРОИЗВЕДЕНИЕ МАТЧА";
+
+/* Class = "IBUILabel"; text = "2."; ObjectID = "D5O-uH-rBs"; */
+"D5O-uH-rBs.text" = "2.";
+
+/* Class = "IBUILabel"; text = "WINNER GETS"; ObjectID = "KrK-b1-xKn"; */
+"KrK-b1-xKn.text" = "приз";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "WiA-iB-nxc"; */
+"WiA-iB-nxc.text" = "Метка";
+
+/* Class = "IBUILabel"; text = "USE THIS GESTURE TO EXPAND THE VIDEO"; ObjectID = "XB2-bF-UgZ"; */
+"XB2-bF-UgZ.text" = "ИСПОЛЬЗУЙТЕ ЭТОТ ЖЕСТ, ЧТОБЫ РАЗВЕРНУТЬ ВИДЕО";
+
+/* Class = "IBUILabel"; text = "1."; ObjectID = "YPO-mr-w5V"; */
+"YPO-mr-w5V.text" = "1.";
+
+/* Class = "IBUILabel"; text = "VS"; ObjectID = "aZz-Wh-b9R"; */
+"aZz-Wh-b9R.text" = "ПРОТИВ";
+
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "dNn-Ta-ss1"; */
+"dNn-Ta-ss1.normalTitle" = "ОК";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "q13-jK-BWf"; */
+"q13-jK-BWf.text" = "Метка";
+
+/* Class = "IBUIButton"; normalTitle = "SHARE"; ObjectID = "zEv-xH-8bU"; */
+"zEv-xH-8bU.normalTitle" = "ПОДЕЛИТЬСЯ";
+

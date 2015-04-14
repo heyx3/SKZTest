@@ -1,0 +1,24 @@
+/* Class = "IBUIView"; accessibilityLabel = "Leaderboard Unlocked"; ObjectID = "1"; */
+"1.accessibilityLabel" = "Meilleurs scores déverrouillés";
+
+/* Class = "IBUILabel"; text = "Ends In: "; ObjectID = "CCX-ot-DcF"; */
+"CCX-ot-DcF.text" = "Se termine dans : ";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Unlocked Next"; ObjectID = "L4R-kl-8Ts"; */
+"L4R-kl-8Ts.accessibilityLabel" = "Débloqué ensuite";
+
+/* Class = "IBUIButton"; normalTitle = "NEXT"; ObjectID = "L4R-kl-8Ts"; */
+"L4R-kl-8Ts.normalTitle" = "SUIVANT";
+
+/* Class = "IBUILabel"; text = "LEADERBOARDS UNLOCKED!"; ObjectID = "Q9J-rO-tdv"; */
+"Q9J-rO-tdv.text" = "MEILLEURS SCORES DÉVERROUILLÉS !";
+
+/* Class = "IBUILabel"; text = "1500"; ObjectID = "Vph-6z-KGw"; */
+"Vph-6z-KGw.text" = "1500";
+
+/* Class = "IBUILabel"; text = "1000"; ObjectID = "gsF-NP-ASM"; */
+"gsF-NP-ASM.text" = "1000";
+
+/* Class = "IBUILabel"; text = "2000"; ObjectID = "lG0-yn-82A"; */
+"lG0-yn-82A.text" = "2000";
+

@@ -1,0 +1,30 @@
+/* Class = "IBUITextField"; placeholder = "Confirm password"; ObjectID = "2Li-3I-74R"; */
+"2Li-3I-74R.placeholder" = "Подтвердить пароль";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Submit Button"; ObjectID = "5LE-uP-Fmc"; */
+"5LE-uP-Fmc.accessibilityLabel" = "Кнопка отправки";
+
+/* Class = "IBUIButton"; normalTitle = "SUBMIT"; ObjectID = "5LE-uP-Fmc"; */
+"5LE-uP-Fmc.normalTitle" = "ОТПРАВИТЬ";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Email Field"; ObjectID = "7xB-u0-Abw"; */
+"7xB-u0-Abw.accessibilityLabel" = "Поле адреса электронной почты";
+
+/* Class = "IBUITextField"; placeholder = "Enter email address"; ObjectID = "7xB-u0-Abw"; */
+"7xB-u0-Abw.placeholder" = "Электронная почта";
+
+/* Class = "IBUILabel"; text = "Yes, sign me up for news and updates from Skillz"; ObjectID = "FJS-0K-xG0"; */
+"FJS-0K-xG0.text" = "Да, оформить подписку на новости и пакеты обновления Skillz";
+
+/* Class = "IBUITextField"; placeholder = "Enter password"; ObjectID = "X5o-T2-3Hg"; */
+"X5o-T2-3Hg.placeholder" = "Введите пароль";
+
+/* Class = "IBUILabel"; text = "Enter your email address and a password \nto save your account."; ObjectID = "cPI-yY-hGK"; */
+"cPI-yY-hGK.text" = "Для сохранения учетной записи введите \nадрес электронной почты и пароль.";
+
+/* Class = "IBUILabel"; text = "CONGRATULATIONS!"; ObjectID = "ePH-5x-RNK"; */
+"ePH-5x-RNK.text" = "ПОЗДРАВЛЯЕМ!";
+
+/* Class = "IBUILabel"; text = "You have completed your first deposit!"; ObjectID = "ouP-Ke-HWy"; */
+"ouP-Ke-HWy.text" = "Вы внесли первый вклад!";
+

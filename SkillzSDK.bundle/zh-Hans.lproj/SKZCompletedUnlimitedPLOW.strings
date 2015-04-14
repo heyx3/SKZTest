@@ -1,0 +1,33 @@
+/* Class = "IBUILabel"; text = "Player"; ObjectID = "4xR-ww-Eaz"; */
+"4xR-ww-Eaz.text" = "玩家";
+
+/* Class = "IBUILabel"; text = "Score"; ObjectID = "RN2-Wf-oW2"; */
+"RN2-Wf-oW2.text" = "得分";
+
+/* Class = "IBUIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "ULK-Jg-cfP"; */
+"ULK-Jg-cfP.accessibilityLabel" = "开辟下一个";
+
+/* Class = "IBUIButton"; normalTitle = "NEXT"; ObjectID = "ULK-Jg-cfP"; */
+"ULK-Jg-cfP.normalTitle" = "下一个";
+
+/* Class = "IBUILabel"; text = "REPLAY"; ObjectID = "Umn-bZ-8jp"; */
+"Umn-bZ-8jp.text" = "重放";
+
+/* Class = "IBUIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "W0l-eI-X68"; */
+"W0l-eI-X68.accessibilityLabel" = "开辟下一个";
+
+/* Class = "IBUIButton"; normalTitle = "SHARE"; ObjectID = "W0l-eI-X68"; */
+"W0l-eI-X68.normalTitle" = "分享";
+
+/* Class = "IBUILabel"; text = "WATCH"; ObjectID = "iWv-0R-zMH"; */
+"iWv-0R-zMH.text" = "观看";
+
+/* Class = "IBUIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "j1b-6k-D1z"; */
+"j1b-6k-D1z.accessibilityLabel" = "开辟下一个";
+
+/* Class = "IBUILabel"; text = "Place"; ObjectID = "l9v-Qy-WfH"; */
+"l9v-Qy-WfH.text" = "位置";
+
+/* Class = "IBUILabel"; text = "FINAL RESULTS"; ObjectID = "tSF-jj-PSG"; */
+"tSF-jj-PSG.text" = "最后结果";
+

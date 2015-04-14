@@ -1,0 +1,24 @@
+/* Class = "IBUILabel"; text = "VS"; ObjectID = "0ig-xZ-pgo"; */
+"0ig-xZ-pgo.text" = "VS";
+
+/* Class = "IBUILabel"; text = "Remind to Play"; ObjectID = "Qut-ES-guf"; */
+"Qut-ES-guf.text" = "Remind to Play";
+
+/* Class = "IBUILabel"; text = "EnormousClock"; ObjectID = "T5g-EN-0fV"; */
+"T5g-EN-0fV.text" = "EnormousClock";
+
+/* Class = "IBUILabel"; text = "WAITING 🕑"; ObjectID = "egn-YC-24e"; */
+"egn-YC-24e.text" = "正在等待 🕑 ";
+
+/* Class = "IBUILabel"; text = "Your Score"; ObjectID = "oON-Xh-RNP"; */
+"oON-Xh-RNP.text" = "你的得分";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "pYL-QN-Vrh"; */
+"pYL-QN-Vrh.normalTitle" = "Button";
+
+/* Class = "IBUIButton"; normalTitle = "Button"; ObjectID = "pvm-Fu-Z55"; */
+"pvm-Fu-Z55.normalTitle" = "Button";
+
+/* Class = "IBUILabel"; text = "🕑 WAITING"; ObjectID = "ywD-DT-l2e"; */
+"ywD-DT-l2e.text" = "🕑 正在等待";
+

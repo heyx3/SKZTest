@@ -1,0 +1,18 @@
+/* Class = "IBUILabel"; text = "WINNER GETS"; ObjectID = "DkK-hs-3i9"; */
+"DkK-hs-3i9.text" = "勝者の獲得賞品";
+
+/* Class = "IBUILabel"; text = "SCORE SUBMITTED"; ObjectID = "QdB-Q2-n8M"; */
+"QdB-Q2-n8M.text" = "スコアを送信しました";
+
+/* Class = "IBUIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "SOs-U3-ce3"; */
+"SOs-U3-ce3.accessibilityLabel" = "次へ投資";
+
+/* Class = "IBUIButton"; normalTitle = "PLAY AGAIN"; ObjectID = "SOs-U3-ce3"; */
+"SOs-U3-ce3.normalTitle" = "もう一度プレイ";
+
+/* Class = "IBUIButton"; accessibilityLabel = "PLOW Next"; ObjectID = "uvw-7j-I7g"; */
+"uvw-7j-I7g.accessibilityLabel" = "次へ投資";
+
+/* Class = "IBUIButton"; normalTitle = "NEXT"; ObjectID = "uvw-7j-I7g"; */
+"uvw-7j-I7g.normalTitle" = "次へ";
+

@@ -1,0 +1,15 @@
+/* Class = "IBUIButton"; normalTitle = "EXIT"; ObjectID = "4ef-10-pUh"; */
+"4ef-10-pUh.normalTitle" = "終了";
+
+/* Class = "IBUILabel"; text = "ENTER YOUR PASSWORD TO LOGIN TO YOUR ACCOUNT"; ObjectID = "98a-uS-ws0"; */
+"98a-uS-ws0.text" = "アカウントにログインするにはパスワードを入力してください";
+
+/* Class = "IBUITextField"; placeholder = "PASSWORD"; ObjectID = "W3F-JE-oi7"; */
+"W3F-JE-oi7.placeholder" = "パスワード";
+
+/* Class = "IBUIButton"; normalTitle = "LOGIN"; ObjectID = "iYX-HB-lZL"; */
+"iYX-HB-lZL.normalTitle" = "ログイン";
+
+/* Class = "IBUILabel"; text = "LOGGED OUT"; ObjectID = "j9y-yL-rqi"; */
+"j9y-yL-rqi.text" = "ログアウト";
+

@@ -1,0 +1,60 @@
+/* Class = "IBUIButton"; normalTitle = "Country"; ObjectID = "7Yf-Or-SCd"; */
+"7Yf-Or-SCd.normalTitle" = "Land";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Zip Field"; ObjectID = "9rr-BU-P3Z"; */
+"9rr-BU-P3Z.accessibilityLabel" = "Zip Field";
+
+/* Class = "IBUITextField"; placeholder = "State/Province"; ObjectID = "9rr-BU-P3Z"; */
+"9rr-BU-P3Z.placeholder" = "Staat/Bundesland";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Last Name Field"; ObjectID = "ApV-8E-zJc"; */
+"ApV-8E-zJc.accessibilityLabel" = "Last Name Field";
+
+/* Class = "IBUITextField"; placeholder = "Last Name"; ObjectID = "ApV-8E-zJc"; */
+"ApV-8E-zJc.placeholder" = "Nachname";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Zip Field"; ObjectID = "BnM-RV-2f0"; */
+"BnM-RV-2f0.accessibilityLabel" = "Zip Field";
+
+/* Class = "IBUITextField"; placeholder = "City"; ObjectID = "BnM-RV-2f0"; */
+"BnM-RV-2f0.placeholder" = "Stadt";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Update Button"; ObjectID = "D1L-H2-gTV"; */
+"D1L-H2-gTV.accessibilityLabel" = "Update Button";
+
+/* Class = "IBUIButton"; normalTitle = "UPDATE"; ObjectID = "D1L-H2-gTV"; */
+"D1L-H2-gTV.normalTitle" = "AKTUALISIEREN";
+
+/* Class = "IBUILabel"; text = "Withdraw Information"; ObjectID = "EyO-rC-6aK"; */
+"EyO-rC-6aK.text" = "Abhebungsdaten";
+
+/* Class = "IBUITextField"; accessibilityLabel = "First Name Field"; ObjectID = "KVR-Ga-YjV"; */
+"KVR-Ga-YjV.accessibilityLabel" = "First Name Field";
+
+/* Class = "IBUITextField"; placeholder = "First Name"; ObjectID = "KVR-Ga-YjV"; */
+"KVR-Ga-YjV.placeholder" = "Vorname";
+
+/* Class = "IBUILabel"; text = "Personal Information"; ObjectID = "LBi-aI-Ivk"; */
+"LBi-aI-Ivk.text" = "Persönliche Daten";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Email Field"; ObjectID = "TdC-lR-FLp"; */
+"TdC-lR-FLp.accessibilityLabel" = "Email Field";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "TdC-lR-FLp"; */
+"TdC-lR-FLp.placeholder" = "E-Mail";
+
+/* Class = "IBUIButton"; normalTitle = "Done"; ObjectID = "fkh-6U-zG2"; */
+"fkh-6U-zG2.normalTitle" = "Fertig";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Zip Field"; ObjectID = "uUO-AY-etD"; */
+"uUO-AY-etD.accessibilityLabel" = "Zip Field";
+
+/* Class = "IBUITextField"; placeholder = "Postal Code"; ObjectID = "uUO-AY-etD"; */
+"uUO-AY-etD.placeholder" = "Postleitzahl";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Address Field"; ObjectID = "zxC-n0-WhI"; */
+"zxC-n0-WhI.accessibilityLabel" = "Address Field";
+
+/* Class = "IBUITextField"; placeholder = "Street Address"; ObjectID = "zxC-n0-WhI"; */
+"zxC-n0-WhI.placeholder" = "Adresse/Straße";
+

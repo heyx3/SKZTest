@@ -1,0 +1,69 @@
+/* Class = "IBUIView"; accessibilityLabel = "Withdraw Info Screen"; ObjectID = "1"; */
+"1.accessibilityLabel" = "提款信息屏";
+
+/* Class = "IBUITextField"; accessibilityLabel = "AptUnitBldgField"; ObjectID = "7H9-fw-ETv"; */
+"7H9-fw-ETv.accessibilityLabel" = "房间、单元、建筑栏";
+
+/* Class = "IBUITextField"; placeholder = "Apt, Unit, Bldg"; ObjectID = "7H9-fw-ETv"; */
+"7H9-fw-ETv.placeholder" = "房间、单元、建筑";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Phone Field"; ObjectID = "EmR-hb-b4M"; */
+"EmR-hb-b4M.accessibilityLabel" = "电话栏";
+
+/* Class = "IBUITextField"; placeholder = "Phone"; ObjectID = "EmR-hb-b4M"; */
+"EmR-hb-b4M.placeholder" = "电话";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Zip Field"; ObjectID = "HSh-iR-ZGY"; */
+"HSh-iR-ZGY.accessibilityLabel" = "邮政编码栏";
+
+/* Class = "IBUITextField"; placeholder = "State/Province"; ObjectID = "HSh-iR-ZGY"; */
+"HSh-iR-ZGY.placeholder" = "州/省";
+
+/* Class = "IBUILabel"; text = "Withdraw Information"; ObjectID = "Oy8-FY-Cpq"; */
+"Oy8-FY-Cpq.text" = "提款信息";
+
+/* Class = "IBUIButton"; accessibilityLabel = "CancelButton"; ObjectID = "RLV-tY-Qnc"; */
+"RLV-tY-Qnc.accessibilityLabel" = "取消按钮";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "RLV-tY-Qnc"; */
+"RLV-tY-Qnc.normalTitle" = "取消";
+
+/* Class = "IBUITextField"; accessibilityLabel = "StreetAddressField"; ObjectID = "UVR-9F-LSU"; */
+"UVR-9F-LSU.accessibilityLabel" = "街道地址栏";
+
+/* Class = "IBUITextField"; placeholder = "Street Address"; ObjectID = "UVR-9F-LSU"; */
+"UVR-9F-LSU.placeholder" = "街道地址";
+
+/* Class = "IBUIButton"; accessibilityLabel = "Update Button"; ObjectID = "VRt-BW-fwj"; */
+"VRt-BW-fwj.accessibilityLabel" = "更新按钮";
+
+/* Class = "IBUIButton"; normalTitle = "Update"; ObjectID = "VRt-BW-fwj"; */
+"VRt-BW-fwj.normalTitle" = "更新";
+
+/* Class = "IBUITextField"; accessibilityLabel = "ZipCodeField"; ObjectID = "eSN-fY-9bK"; */
+"eSN-fY-9bK.accessibilityLabel" = "邮政编码栏";
+
+/* Class = "IBUITextField"; placeholder = "Postal Code"; ObjectID = "eSN-fY-9bK"; */
+"eSN-fY-9bK.placeholder" = "邮政编码";
+
+/* Class = "IBUITextField"; accessibilityLabel = "Zip Field"; ObjectID = "g1g-fh-XWn"; */
+"g1g-fh-XWn.accessibilityLabel" = "邮政编码栏";
+
+/* Class = "IBUITextField"; placeholder = "City"; ObjectID = "g1g-fh-XWn"; */
+"g1g-fh-XWn.placeholder" = "城市";
+
+/* Class = "IBUITextField"; accessibilityLabel = "FirstNameField"; ObjectID = "kxM-Pr-axE"; */
+"kxM-Pr-axE.accessibilityLabel" = "名字栏";
+
+/* Class = "IBUITextField"; placeholder = "First Name"; ObjectID = "kxM-Pr-axE"; */
+"kxM-Pr-axE.placeholder" = "名";
+
+/* Class = "IBUITextField"; accessibilityLabel = "LastNameField"; ObjectID = "nci-yJ-SHm"; */
+"nci-yJ-SHm.accessibilityLabel" = "姓氏栏";
+
+/* Class = "IBUITextField"; placeholder = "Last Name"; ObjectID = "nci-yJ-SHm"; */
+"nci-yJ-SHm.placeholder" = "姓";
+
+/* Class = "IBUIImageView"; accessibilityLabel = "PhoneField"; ObjectID = "vNe-LZ-GN8"; */
+"vNe-LZ-GN8.accessibilityLabel" = "电话栏";
+

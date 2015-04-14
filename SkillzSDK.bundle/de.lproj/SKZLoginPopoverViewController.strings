@@ -1,0 +1,15 @@
+/* Class = "IBUIButton"; normalTitle = "EXIT"; ObjectID = "4ef-10-pUh"; */
+"4ef-10-pUh.normalTitle" = "AUSGANG";
+
+/* Class = "IBUILabel"; text = "ENTER YOUR PASSWORD TO LOGIN TO YOUR ACCOUNT"; ObjectID = "98a-uS-ws0"; */
+"98a-uS-ws0.text" = "GIB DEIN PASSWORT EIN, UM DICH BEI DEINEM KONTO ANZUMELDEN";
+
+/* Class = "IBUITextField"; placeholder = "PASSWORD"; ObjectID = "W3F-JE-oi7"; */
+"W3F-JE-oi7.placeholder" = "PASSWORT";
+
+/* Class = "IBUIButton"; normalTitle = "LOGIN"; ObjectID = "iYX-HB-lZL"; */
+"iYX-HB-lZL.normalTitle" = "ANMELDEN";
+
+/* Class = "IBUILabel"; text = "LOGGED OUT"; ObjectID = "j9y-yL-rqi"; */
+"j9y-yL-rqi.text" = "ABGEMELDET";
+

@@ -1,0 +1,12 @@
+/* Class = "IBUIButton"; normalTitle = "Done"; ObjectID = "F73-k0-euM"; */
+"F73-k0-euM.normalTitle" = "Hecho";
+
+/* Class = "IBUIButton"; normalTitle = "CONTACT CUSTOMER SERVICE"; ObjectID = "Jnh-2l-fwa"; */
+"Jnh-2l-fwa.normalTitle" = "CONTACTO SERVICIO AL CLIENTE";
+
+/* Class = "IBUILabel"; text = "Didn't answer your question?"; ObjectID = "eOF-1U-oFq"; */
+"eOF-1U-oFq.text" = "¿Todavia tienes pregunta?";
+
+/* Class = "IBUIButton"; normalTitle = "Select Support Category"; ObjectID = "hcP-zJ-0w8"; */
+"hcP-zJ-0w8.normalTitle" = "Seleccione Asistencia Categoría";
+
